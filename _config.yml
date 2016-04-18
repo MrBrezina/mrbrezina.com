@@ -1,0 +1,16 @@
+# Permalinks
+
+# Setup
+title: MrBrezina
+description: Personal site of David Březina
+url: http://davi.cz
+baseurl: ""
+
+# About/contact
+author:
+  name: David Březina
+  url: https://davi.cz
+  email: brezina@davi.cz
+
+# Build settings
+markdown: kramdown

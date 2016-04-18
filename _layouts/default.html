@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="/assets/styles.css">
+
+</head>
+
+<body>
+  <div class='navbar fixed'>
+     <div class='container'>
+        <a href="http://rosettatype.com" class='pull-left logo'>Rosetta</a>
+     </div>
+  </div>
+
+  <div class="container">
+    <div class="grid">
+      <div class="row">
+        <div class="span twelve">
+          {{ content }}
+        </div>
+      </div>
+
+      {% if page.home == null %}
+
+      <div class="divider"></div>
+
+      <div class="row">
+        <div class="span twelve">
+          <a class="secondary" href="../">Back</a>
+        </div>
+      </div>
+
+      {% endif %}
+
+      <div class="divider"></div>
+
+      <div class="row">
+        <div class="span ten gray">© David Březina, 2016.</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
