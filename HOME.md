@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+home: True
 ---
 
 # David Březina
