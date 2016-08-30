@@ -1,9 +1,9 @@
-# Rosetta – world typography specialists
+# David Březina
 
-Rosetta addresses the needs of global typography. Together with our collaborators we create original fonts for a polyphonic world. Our work has been featured and awarded. But most importantly it has enabled people to read better in their native language.
+David Březina is a type designer and typographer, writer and lecturer, director of the [Rosetta Type Foundry](http://rosettatype.com), and the impresario of the [TypeTalks](http://typetalks.org) conference. You may know him as a designer of the award-winning type family [Skolar](http://rosettatype.com/Skolar). He has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.
 
-So far our retail library supports pan-European Latin, Arabic, Armenian, Greek, Cyrillic (besides Slavic languages we also support many Asian languages), Inuktitut, and Indic scripts like Gujarati and Devanagari. In total, the library covers more than 200 languages.
+Currently pursuing PhD studies at the Department of Typography & Graphic Communication at the University of Reading (UK).
 
-Besides presenting proprietary, retail and custom, work on our website, we are sharing our open-source/libre fonts and tools on GitHub.
+[Rosetta website](http://rosettatype.com){:.primary}
 
-[Rosetta website](http://rosettatype.com)
+(this is a temporary website before I transfer all the content from the previous one – it will take long)
