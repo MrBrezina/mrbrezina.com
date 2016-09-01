@@ -1,0 +1,90 @@
+{
+  "name": "MrBrezina/mrbrezina.github.io",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.19"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/MrBrezina/mrbrezina.github.io",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "mrbrezina.github.io",
+      "subhead": "Personal web",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "mrbrezina.github.io: Personal web",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "MrBrezina",
+          "repo": "mrbrezina.github.io"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>David B&#x159;ezina</h1>\n<p>David B&#x159;ezina is a type designer and typographer, writer and lecturer, director of the <a href=\"http://rosettatype.com\">Rosetta Type Foundry</a>, and the impresario of the <a href=\"http://typetalks.org\">TypeTalks</a> conference. You may know him as a designer of the award-winning type family <a href=\"http://rosettatype.com/Skolar\">Skolar</a>. He has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.</p>\n<p>Currently pursuing PhD studies at the Department of Typography &amp; Graphic Communication at the University of Reading (UK).</p>\n<p><a href=\"http://rosettatype.com\">Rosetta website</a>{:.primary}</p>\n<p>(this is a temporary website before I transfer all the content from the previous one &#x2013; it will take long)</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/MrBrezina/mrbrezina.github.io",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/MrBrezina",
+          "text": "MrBrezina"
+        }
+      ]
+    }
+  ]
+}
