@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-**David Březina** is a type designer, writer, lecturer, and chief type officer at [Rosetta Type](http://rosettatype.com). He has designed typefaces [Skolar](http://rosettatype.com/Skolar), [Skolar Sans](http://rosettatype.com/SkolarSans) (with Sláva Jevčinová), [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (with Anna Giedryś) and worked on various custom projects for Adobe, Google, LG, and Microsoft. Specialising in multilingual type design, he designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.
+**David Březina** is a type designer, writer, lecturer, and chief type officer at [Rosetta Type](http://rosettatype.com). He has designed typefaces [Skolar](http://rosettatype.com/Skolar), [Skolar Sans](http://rosettatype.com/SkolarSans) (with Sláva Jevčinová), [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (with Anna Giedryś) and worked on various custom projects for Adobe, Google, LG, and Microsoft (via Tiro Typeworks). Specialising in multilingual type design, he designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.
 
 David holds Masters’s degree in computer science from the Faculty of Informatics of Masaryk University in Brno (CZ) and MA in Typeface Design from at the Department of Typography & Graphic Communication at the University of Reading (UK). He is currently pursuing PhD studies at the University of Reading focusing on coherence and character similarity in typefaces for continuous texts for Latin, Cyrillic, and Devanagari.
 
@@ -61,3 +61,21 @@ David holds Masters’s degree in computer science from the Faculty of Informati
 - **Multilingual typography workshop.** At: Sign and typography studio of The Academy of Fine Arts in Poznań, Lanckorona, 2009.
 - **Type design process & automation.** At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2009.
 - **A brief introduction to Python for FontLab.** At: Monotype Imaging, Salfords, 2009.
+
+## Awards
+
+- **European Design Awards 2015** – silver for Skolar Sans Latin
+- **Granshan 2013** – 2nd prize (Indic category) for Skolar Gujarati
+- **Granshan 2012** – 1st prize (Indic category) for Skolar Devanagari (with Vaibhav Singh)
+- **Granshan 2009** – 1st prize (Cyrillic category) for Skolar Cyrillic
+- **Modern Cyrillic 2009** – special diploma for Skolar Cyrillic
+- **European Design Awards 2008** – silver for Skolar & Surat (Skolar Gujarati)
+
+## Exhibitions
+
+- Granshan exhibition at ATypI Warszaw, 2016 (PL).
+- Granshan exhibition in Bangkok, 2013 (DE/TH).
+- International Biennial of Graphic design in Brno 2006, 2008, 2010, and 2012 (CZ).
+- Collective type design exhibition at Klingspor-Museum Offenbach, 2010 (D).
+- Modern Cyrillic exhibition in Mexico City, 2009 (RU/MX).
+- TypeTogether collective exhibition in Rosario, 2008 (RA), Cieszyn, 2010 (PL), Poznań, 2011 (PL).
