@@ -1,27 +1,27 @@
 
 /* Yrsa fonts */
 
-@import url('https://fonts.googleapis.com/css?family=Yrsa:300');
+@import url('https://fonts.googleapis.com/css?family=Yrsa:400,600');
 
 html, body {
-  background: #eee;
+  background: #f8f8f8;
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
   color: #111;
   font-family: Yrsa, serif;
-  font-weight: 300;
-  font-size: 32px;
+  font-weight: 400;
+  font-size: 34px;
   line-height: 150%;
 }
 
 section {
-  width: 73%;
-  padding: 30px 0 20px 20px;
+  width: 1000px;
+  padding: 3em 10% 5em 15%;
 }
 
 h1, h2, h3, h4 {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 h1 {
@@ -36,17 +36,27 @@ h2 {
 
 p {
   margin: 1em 0;
-  width: 80%;
+}
+
+strong {
+  font-weight: 600;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  font-size: 0.8em;
 }
 
 a {
-  font-weight: bold;
+  font-weight: 600;
   color: rgb(254, 23, 113);
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(254, 23, 113);
   text-decoration: none;
 }
 
