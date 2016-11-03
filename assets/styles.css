@@ -1,7 +1,9 @@
 
-/* Yrsa fonts */
+/* Yrsa fonts from Google */
 
 @import url('https://fonts.googleapis.com/css?family=Yrsa:400,600');
+
+/* General */
 
 html, body {
   background: #f8f8f8;
@@ -11,13 +13,13 @@ body, li, p, h1, h2, h3, h4, h5 {
   color: #111;
   font-family: Yrsa, serif;
   font-weight: 400;
-  font-size: 34px;
+  font-size: 27px;
   line-height: 150%;
 }
 
 section {
   width: 1000px;
-  padding: 3em 10% 5em 15%;
+  padding: 3em 10% 5em 10%;
 }
 
 h1, h2, h3, h4 {
@@ -36,6 +38,7 @@ h2 {
 
 p {
   margin: 1em 0;
+  font-size: 34px;
 }
 
 strong {
@@ -44,10 +47,6 @@ strong {
 
 ul {
   padding-left: 0;
-}
-
-li {
-  font-size: 0.8em;
 }
 
 a {
@@ -68,33 +67,27 @@ a:hover {
   display: none;
 }
 
-/*
-@media (max-width: 767px) {
-	body {
-		width: 100%;
-	}
+/* Responsive */
 
-	.container {
-		width: 90%;
-		margin-left: 5%;
-		margin-right: 5%;
-	}
+@media (max-width: 1150px) {
+  section {
+    width: 88%;
+    padding: 1em 7% 3em 5%;
+  }
+  body, li, p, h1, h2, h3, h4, h5 {
+    font-size: 24px;
+  }
+  p {
+    font-size: 28px;
+  }
+}
 
-	h3 {
-		font-size: 1em;
-	}
-
-	p {
-		width: 100%;
-	}
-
-	p > a.primary, p > a.secondary {
-		display: block;
-		margin: 10px;
-		width: auto;
-	}
-
-	img {
-		max-width: 100%;
-	}
-}*/
+@media (max-width: 800px) {
+  section {
+    width: 90%;
+    padding: 1em 5% 3em 5%;
+  }
+  body, li, p, h1, h2, h3, h4, h5 {
+    font-size: 24px;
+  }
+}
