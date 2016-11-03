@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-**David Březina** is a Czech type designer, writer, lecturer, and managing director of the [Rosetta Type Foundry](http://rosettatype.com). He has designed typefaces [Skolar](http://rosettatype.com/Skolar), [Skolar Sans](http://rosettatype.com/SkolarSans) (with Sláva Jevčinová), [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (with Anna Giedryś) and worked on various custom projects for Adobe, Google, LG, and Microsoft. Specialising in multilingual type design, he designed typefaces for Cyrillic, Greek, Gujarati, and Devanagari.
+**David Březina** is a Czech type designer, writer, lecturer, and managing director of the [Rosetta Type Foundry](http://rosettatype.com). He has designed typefaces [Skolar](http://rosettatype.com/Skolar), [Skolar Sans](http://rosettatype.com/SkolarSans) (with Sláva Jevčinová), [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (with Anna Giedryś) and worked on various custom projects for Adobe, Google, LG, and Microsoft. Specialising in multilingual type design, he designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.
 
 David is currently pursuing PhD studies at the Department of Typography & Graphic Communication at the University of Reading (UK) focusing on coherence and character similarity in typefaces for continuous texts for Latin, Cyrillic, and Devanagari.
 
