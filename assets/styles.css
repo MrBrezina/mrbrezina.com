@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 2em;
   margin: 1.2em 0 0.5em;
 }
 
@@ -38,7 +38,8 @@ h2 {
 
 p {
   margin: 1em 0;
-  font-size: 27px;
+  font-size: 31px;
+  max-width: 900px;
 }
 
 strong {
@@ -57,7 +58,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  background-color: rgb(254, 23, 113, 0.1);
+  background-color: rgba(254, 23, 113, 0.1);
 }
 
 .gray {
