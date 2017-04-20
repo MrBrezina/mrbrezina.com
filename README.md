@@ -6,7 +6,7 @@ home: True
 
 **David Březina** is a type designer, writer, lecturer, and chief type officer at [Rosetta Type](http://rosettatype.com). He has designed typefaces [Skolar](http://rosettatype.com/Skolar), [Skolar Sans](http://rosettatype.com/SkolarSans) (with Sláva Jevčinová), [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (with Anna Giedryś) and worked on various custom projects for Adobe, Google, LG, and Microsoft (with Tiro Typeworks). Specialising in multilingual type design, he designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin.
 
-David holds Masters’s degree in computer science from the Faculty of Informatics of Masaryk University in Brno (CZ) and MA in Typeface Design from at the Department of Typography & Graphic Communication at the University of Reading (UK). He is currently pursuing PhD studies at the University of Reading focusing on coherence and character similarity in typefaces for continuous texts for Latin, Cyrillic, and Devanagari.
+David holds Masters’s degree in computer science from the Faculty of Informatics of Masaryk University in Brno (CZ) and MA in Typeface Design from the Department of Typography & Graphic Communication at the University of Reading (UK). He is currently pursuing PhD studies at the University of Reading focusing on coherence and character similarity in typefaces for continuous texts for Latin, Cyrillic, and Devanagari.
 
 Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a> / Twitter: [@MrBrezina](http://twitter.com/mrbrezina)
 
@@ -36,6 +36,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Lectures
 
+- **Some of the things I do not know about typefaces.** Typostammtisch, Berlin, 2017.
 - **Recent projects from Rosetta.** Du monde entier au cœur du monde, Paris, 2015.
 - **Letters of Rosetta: from Brno to Bern.** TypEast, Bern, 2015.
 - **Challenges in multilingual type design (II).** ATypI, Amsterdam, 2013.
