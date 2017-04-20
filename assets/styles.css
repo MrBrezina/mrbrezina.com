@@ -13,7 +13,7 @@ body, li, p, h1, h2, h3, h4, h5 {
   color: #111;
   font-family: Yrsa, serif;
   font-weight: 400;
-  font-size: 27px;
+  font-size: 24px;
   line-height: 150%;
 }
 
@@ -39,7 +39,7 @@ h2 {
 p {
   margin: 1em 0;
   font-size: 31px;
-  max-width: 900px;
+  max-width: 1000px;
 }
 
 strong {
