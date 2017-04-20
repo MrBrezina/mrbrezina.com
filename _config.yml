@@ -3,13 +3,13 @@
 # Setup
 title: MrBrezina
 description: Personal website of David Březina
-url: http://davi.cz
+url: https://www.mrbrezina.com
 baseurl: ""
 
 # About/contact
 author:
   name: David Březina
-  url: https://davi.cz
+  url: https://www.mrbrezina.com
   email: brezina@davi.cz
 
 # Build settings

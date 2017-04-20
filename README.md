@@ -8,7 +8,7 @@ home: True
 
 David holds Masters’s degree in computer science from the Faculty of Informatics of Masaryk University in Brno (CZ) and MA in Typeface Design from at the Department of Typography & Graphic Communication at the University of Reading (UK). He is currently pursuing PhD studies at the University of Reading focusing on coherence and character similarity in typefaces for continuous texts for Latin, Cyrillic, and Devanagari.
 
-Email: <a href="mailto:&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#064;&#100;&#097;&#118;&#105;&#046;&#099;&#122;">&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#064;&#100;&#097;&#118;&#105;&#046;&#099;&#122;</a> / Twitter: [@MrBrezina](http://twitter.com/mrbrezina)
+Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a> / Twitter: [@MrBrezina](http://twitter.com/mrbrezina)
 
 ## Articles
 
