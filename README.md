@@ -24,10 +24,11 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 <!-- todo: interview in Biscriptual -->
 - Pecina, Martin. **Nowe Terytoria.** In: 2+3D, issue 52, volume III/2014, 2014. [#link](http://www.2plus3d.pl/kwartalnik/52)
 - Middendorp, Jan. **Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.** In: Creative Characters: The faces behind the fonts, issue 71, 2013. [#link](https://www.myfonts.com/newsletters/cc/201306.html)
-- Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Type Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography) 2012.
+- Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Type Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)
 - Falvey, Christian. Award-winning Czech typographer takes on Gujarati. Radio Praha, 2012. [#link](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)
 - Lutonský, František. **Interview for the Czech National TV ČT 24.** (In Czech.) 2012. [#link](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
 - Pathak, Bharat. **This Czech is a Gujarati ‘type’.** Times of India, 28 March 2012. [#link](http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms)
+- Stocks, Elliot Jay. **David Březina.** In: 8 Faces, issue 4, 2011. [#link](http://www.8faces.com/info)
 - Fojtů, Martina. **Březina: Vytvářet písma je jako mluvit různými hlasy.** In: Magazine of the Masaryk University, 2011. [#link](https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy)
 
 ## Academic publications
