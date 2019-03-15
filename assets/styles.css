@@ -55,7 +55,8 @@ a {
   color: rgb(254, 23, 113);
   text-decoration: none;
   background-color: rgba(254, 23, 113, 0.1);
-  border-radius: 4px;
+  border-radius: 5px;
+  padding: 0 0.2em;
 }
 
 a:hover {
