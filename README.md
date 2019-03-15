@@ -19,9 +19,9 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - [Handjet](http://rosettatype.com/Handjet). Published in 2018.
 - production and occassional art-direction of other projects from Rosetta Type
 
-## Interviews and profiles
+## Interviews with David and profiles
 
-<!-- todo: interview in Biscriptual -->
+- Hartmann, Timm, Sascha Thoma and Ben Wittner. **Forget your knowledge: Interview with David Březina of Rosetta Type.** In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018.
 - Pecina, Martin. **Nowe Terytoria.** In: 2+3D, issue 52, volume III/2014, 2014. [#link](http://www.2plus3d.pl/kwartalnik/52)
 - Middendorp, Jan. **Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.** In: Creative Characters: The faces behind the fonts, issue 71, 2013. [#link](https://www.myfonts.com/newsletters/cc/201306.html)
 - Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Type Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)
