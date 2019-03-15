@@ -54,11 +54,13 @@ a {
   font-weight: 600;
   color: rgb(254, 23, 113);
   text-decoration: none;
+  background-color: rgba(254, 23, 113, 0.1);
+  border-radius: 4px;
 }
 
 a:hover {
   text-decoration: none;
-  background-color: rgba(254, 23, 113, 0.1);
+  background-color: rgba(254, 23, 113, 0.2);
 }
 
 .gray {
