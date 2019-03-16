@@ -16,7 +16,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - [Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati). Designed for Adobe under the art-direction of Fiona Ross. Published in 2013.
 - [Skolar Sans](http://rosettatype.com/SkolarSans) (Latin, Cyrillic, Greek, [Arabic]). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth. Published in 2014–16.
 - [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Latin, Gujarati) art-direction, design by Anna Giedryś. Rasa is based closely on Skolar Gujarati. Published in 2016.
-- [Handjet](http://rosettatype.com/Handjet). Published in 2018.
+- [Handjet](http://rosettatype.com/Handjet) (Latin, Cyrillic, Greek). Published in 2018.
 - production and occassional art-direction of other projects from Rosetta Type
 
 ## Interviews with David and profiles
