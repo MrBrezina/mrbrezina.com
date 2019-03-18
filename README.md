@@ -11,12 +11,13 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Typeface design
 
-- [Skolar](http://rosettatype.com/Skolar) (Latin, Cyrillic, Greek, Gujarati, [Devanagari]). Skolar Devanagari was designed mostly by Vaibhav Singh. Published in 2009–2012. Originally published via TypeTogether.
-- [Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI). Designed for Microsoft within Tiro Typeworks, art-direction Fiona Ross. Published in 2012.
-- [Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati). Designed for Adobe under the art-direction of Fiona Ross. Published in 2013.
-- [Skolar Sans](http://rosettatype.com/SkolarSans) (Latin, Cyrillic, Greek, [Arabic]). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth. Published in 2014–16.
-- [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Latin, Gujarati) art-direction, design by Anna Giedryś. Rasa is based closely on Skolar Gujarati. Published in 2016.
-- [Handjet](http://rosettatype.com/Handjet) (Latin, Cyrillic, Greek). Published in 2018.
+- [Skolar](http://rosettatype.com/Skolar) (Latin, Cyrillic, Greek, Gujarati, [Devanagari], 2009–2012). Own design. Skolar Devanagari was designed mostly by Vaibhav Singh. Originally published through TypeTogether.
+- **Veto Devanagari** (Devanagari, 2009) Design and production for Linotype (now Monotype).
+- [Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI) (Gujarati, 2012) Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
+- [Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati) (Gujarati, 2013). Design for Adobe, art-direction Fiona Ross.
+- [Skolar Sans](http://rosettatype.com/SkolarSans) (Latin, Cyrillic, Greek, [Arabic], 2014–16). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth.
+- [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Latin, Gujarati, 2016). Art-direction, design by Anna Giedryś. Rasa is based on Skolar Gujarati.
+- [Handjet](http://rosettatype.com/Handjet) (Latin, Cyrillic, Greek, 2018).
 - production and occassional art-direction of other projects from Rosetta Type
 
 ## Interviews with David and profiles
