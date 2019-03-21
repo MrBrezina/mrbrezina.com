@@ -9,6 +9,10 @@ html, body {
   background: #f8f8f8;
 }
 
+html {
+  border-top: 5px solid rgba(200, 185, 30, 1.0);
+}
+
 body, li, p, h1, h2, h3, h4, h5 {
   color: #111;
   font-family: Yrsa, serif;
@@ -52,16 +56,16 @@ ul {
 
 a {
   font-weight: 600;
-  color: rgb(254, 23, 113);
+  color: rgba(200, 185, 30, 1.0);
   text-decoration: none;
-  background-color: rgba(254, 23, 113, 0.1);
+  background-color: rgba(200, 185, 30, 0.1);
   border-radius: 5px;
   padding: 0 0.2em;
 }
 
 a:hover {
   text-decoration: none;
-  background-color: rgba(254, 23, 113, 0.2);
+  background-color: rgba(200, 185, 30, 0.2);
 }
 
 .gray {
