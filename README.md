@@ -54,7 +54,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - **Challenges in multilingual type design.** In: Codex 2, 2012.
 - **Celeste.** (Typeface review in Czech and English.) In: TYPO 41, 2010.
 - **Tomate & Lavigne Display.** (Typeface review in Czech and English.) In: TYPO 39, 2010.
-- **On diacritics.** In: I love typography, 2009. Edited by John Boardley. [#link](http://ilovetypography.com/2009/01/24/on-diacritics/) (There is a Russian translation of this article by Vasily V. Melenchuk [#link]](http://habrahabr.ru/blogs/typography/52258/))
+- **On diacritics.** In: I love typography, 2009. Edited by John Boardley. [#link](http://ilovetypography.com/2009/01/24/on-diacritics/) (There is a Russian translation of this article by Vasily V. Melenchuk [#link](http://habrahabr.ru/blogs/typography/52258/))
 - **Klimax.** (Typeface review in Czech and English.) In: TYPO 36, 2009.
 - **Odile & Elido.** (Typeface review in Czech and English.) In: TYPO 36, 2009.
 - Březina D & Vlachou I. **Maiola.** (Typeface review in Czech and English.) In: TYPO 33, 2008.
