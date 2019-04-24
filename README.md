@@ -11,7 +11,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Typeface design
 
-- [Skolar](http://rosettatype.com/Skolar) (Latin, Cyrillic, Greek, Gujarati, [Devanagari], 2009–2012). Own design. Skolar Devanagari was designed mostly by Vaibhav Singh. Originally published through TypeTogether.
+- [Skolar](http://rosettatype.com/Skolar) (Latin, Cyrillic, Greek, Gujarati, [Devanagari], 2009–2012). Own design. Skolar (LCG) was originally published through TypeTogether. Skolar Devanagari was designed mostly by Vaibhav Singh.
 - **Veto Devanagari** (Devanagari, 2009) Design and production for Linotype (now Monotype).
 - [Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI) (Gujarati, 2012) Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
 - [Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati) (Gujarati, 2013). Design for Adobe, art-direction Fiona Ross.
