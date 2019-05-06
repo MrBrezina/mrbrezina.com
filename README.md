@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-**Dr David Březina** is a typeface designer, writer, lecturer, and chief type officer at [Rosetta Type](http://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and MA in Typeface Design and PhD from the University of Reading (UK).
+**Dr David Březina** is a typeface designer, writer, lecturer, and chief type officer at [Rosetta](http://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and MA in Typeface Design and PhD from the University of Reading (UK).
 His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
 
 Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a> Twitter: [@MrBrezina](http://twitter.com/mrbrezina)
@@ -18,14 +18,14 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - [Skolar Sans](http://rosettatype.com/SkolarSans) (Latin, Cyrillic, Greek, [Arabic], 2014–16). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth.
 - [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Latin, Gujarati, 2016). Art-direction, design by Anna Giedryś. Rasa is based on Skolar Gujarati.
 - [Handjet](http://rosettatype.com/Handjet) (Latin, Cyrillic, Greek, 2018).
-- production and occassional art-direction of other projects from Rosetta Type
+- production and occassional art-direction of other projects from Rosetta
 
 ## Interviews with David and profiles
 
 - Hartmann, Timm, Sascha Thoma and Ben Wittner. **Forget your knowledge: Interview with David Březina of Rosetta Type.** In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018.
 - Pecina, Martin. **Nowe Terytoria.** In: 2+3D, issue 52, volume III/2014, 2014. [#link](http://www.2plus3d.pl/kwartalnik/52)
 - Middendorp, Jan. **Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.** In: Creative Characters: The faces behind the fonts, issue 71, 2013. [#link](https://www.myfonts.com/newsletters/cc/201306.html)
-- Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Type Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)
+- Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)
 - Falvey, Christian. Award-winning Czech typographer takes on Gujarati. Radio Praha, 2012. [#link](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)
 - Lutonský, František. **Interview for the Czech National TV ČT 24.** (In Czech.) 2012. [#link](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
 - Pathak, Bharat. **This Czech is a Gujarati ‘type’.** Times of India, 28 March 2012. [#link](http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms)
@@ -42,11 +42,11 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Other publications
 
-- **Yrsa & Rasa released.** In: Rosetta Type Blog, 2016. [#link](https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released)
-- **Harmonizing Rasa Gujarati and Yrsa Latin.** In: Rosetta Type Blog, 2016. [#link](https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin)
-- **Introducing Yrsa.** In: Rosetta Type Blog, 2015. [#link](https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa)
-- **Considerations in multilingual type design.** In: Rosetta Type Blog, 2015. [#link](https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design)
-- **Rethinking type experience.** In: Rosetta Type Blog, 2014. [#link](https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience)
+- **Yrsa & Rasa released.** In: Rosetta Blog, 2016. [#link](https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released)
+- **Harmonizing Rasa Gujarati and Yrsa Latin.** In: Rosetta Blog, 2016. [#link](https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin)
+- **Introducing Yrsa.** In: Rosetta Blog, 2015. [#link](https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa)
+- **Considerations in multilingual type design.** In: Rosetta Blog, 2015. [#link](https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design)
+- **Rethinking type experience.** In: Rosetta Blog, 2014. [#link](https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience)
 - **A Critical Approach To Typefaces.** In: Smashing Magazine, 2013. [#link](http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/)
 - **Balkan Sans (Typeface review).** In: Typographica, 2013. [#link](https://typographica.org/typeface-reviews/balkan-sans/)
 - **TYPO 49.** 2012. Guest editor. [#link](http://www.typo.cz/en/magazine/?cislo=49)
