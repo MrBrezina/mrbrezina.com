@@ -64,7 +64,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Lectures
 
-- Dyson M & Březina D. **Challenging design training: do designers suffer more with harder to read typefaces?.** ICTVC 7, Patras, 2019.
+- Dyson M & Březina D. **Challenging design training: do designers suffer more with harder to read typefaces?** ICTVC 7, Patras, 2019.
 - **Character similarity and coherence in typeface design.** ICTVC 7, Patras, 2019.
 - **Character similarity and coherence in typeface design.** Graphemics in 21st century: From graphemes to knowledge, Brest, 2018. [#link](http://conferences.telecom-bretagne.eu/grafematik/) [#recording](https://www.youtube.com/watch?v=XjxeZxS74do)
 - **Some of the things I do not know about typefaces.** Typostammtisch, Berlin, 2017. [#link](https://typostammtisch.berlin/2017/04/recap-typostammtisch-65-david-brezina/)
