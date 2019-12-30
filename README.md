@@ -10,13 +10,14 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Typeface design
 
-- [Skolar](http://rosettatype.com/Skolar) (Latin, Cyrillic, Greek, Gujarati, [Devanagari], 2009–2012). Own design. Skolar (LCG) was originally published through TypeTogether. Skolar Devanagari was designed mostly by Vaibhav Singh.
-- **Veto Devanagari** (Devanagari, 2009) Design and production for Linotype (now Monotype).
-- [Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI) (Gujarati, 2012) Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
+- [Adapter](http://rosettatype.com/Adapter) (Arabic, Cyrillic, Greek, Hebrew Latin, 2019–20). Art-direction.
+- [Handjet](http://rosettatype.com/Handjet) (Cyrillic, Greek, Latin, 2018).
+- [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Gujarati, Latin, 2016). Art-direction, design by Anna Giedryś. Rasa is based on Skolar Gujarati.
+- [Skolar Sans](http://rosettatype.com/SkolarSans) (Cyrillic, Greek, Latin, [Arabic], 2014–16). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth.
 - [Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati) (Gujarati, 2013). Design for Adobe, art-direction Fiona Ross.
-- [Skolar Sans](http://rosettatype.com/SkolarSans) (Latin, Cyrillic, Greek, [Arabic], 2014–16). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth.
-- [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) (Latin, Gujarati, 2016). Art-direction, design by Anna Giedryś. Rasa is based on Skolar Gujarati.
-- [Handjet](http://rosettatype.com/Handjet) (Latin, Cyrillic, Greek, 2018).
+- [Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI) (Gujarati, 2012) Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
+- [Skolar](http://rosettatype.com/Skolar) (Cyrillic, Greek, Gujarati, Latin, [Devanagari], 2009–2012). Own design. Skolar (LCG) was originally published through TypeTogether. Skolar Devanagari was designed mostly by Vaibhav Singh.
+- **Veto Devanagari** (Devanagari, 2009) Design and production for Linotype (now Monotype).
 - production and occassional art-direction of other projects from Rosetta
 
 ## Interviews with David and profiles
@@ -63,7 +64,9 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Lectures
 
-- **Character Similarity and Coherence in Typeface Design.** Graphemics in 21st century: From graphemes to knowledge, Brest, 2018. [#link](http://conferences.telecom-bretagne.eu/grafematik/) [#recording](https://www.youtube.com/watch?v=XjxeZxS74do)
+- Dyson M & Březina D. **Challenging design training: do designers suffer more with harder to read typefaces?.** ICTVC 7, Patras, 2019.
+- **Character similarity and coherence in typeface design.** ICTVC 7, Patras, 2019.
+- **Character similarity and coherence in typeface design.** Graphemics in 21st century: From graphemes to knowledge, Brest, 2018. [#link](http://conferences.telecom-bretagne.eu/grafematik/) [#recording](https://www.youtube.com/watch?v=XjxeZxS74do)
 - **Some of the things I do not know about typefaces.** Typostammtisch, Berlin, 2017. [#link](https://typostammtisch.berlin/2017/04/recap-typostammtisch-65-david-brezina/)
 - **Recent projects from Rosetta.** Du monde entier au cœur du monde, Paris, 2015.
 - **Letters of Rosetta: from Brno to Bern.** TypEast, Bern, 2015.
