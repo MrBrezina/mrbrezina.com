@@ -10,7 +10,7 @@ html, body {
 }
 
 html {
-  border-top: 5px solid rgba(175, 195, 30, 1.0);
+  border-top: 15px solid rgb(236, 218, 57);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
