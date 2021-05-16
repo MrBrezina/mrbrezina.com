@@ -56,16 +56,16 @@ ul {
 
 a {
   font-weight: 600;
-  color: rgb(175, 195, 30);
+  color: rgb(236, 218, 57);
   text-decoration: none;
-  background-color: rgba(175, 195, 30, 0.1);
+  background-color: rgba(236, 218, 57, 0.1);
   border-radius: 5px;
   padding: 0 0.2em;
 }
 
 a:hover {
   text-decoration: none;
-  background-color: rgba(175, 195, 30, 0.2);
+  background-color: rgba(236, 218, 57, 0.1);
 }
 
 .gray {
