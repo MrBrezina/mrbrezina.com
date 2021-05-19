@@ -27,7 +27,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 - [Universal Specimen](https://universalspecimen.rosettatype.com) – preview and compare the appearance of up to 361 languages before you start typesetting them (concept and art-direction).
 - [Hyperglot](https://hyperglot.rosettatype.com) – preview basic characters needed to write in the world’s languages (concept and art-direction).
-- [Design Regression](https://designregression.com) - a journalette (mini journal) publishing texts that are about design for reading and reading-related research
+- [Design Regression](https://designregression.com) – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
 
 ## Interviews with David, profiles, and other appearances
