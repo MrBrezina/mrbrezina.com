@@ -27,17 +27,19 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 - [Universal Specimen](https://universalspecimen.rosettatype.com) – preview and compare the appearance of up to 361 languages before you start typesetting them (concept and art-direction).
 - [Hyperglot](https://hyperglot.rosettatype.com) – preview basic characters needed to write in the world’s languages (concept and art-direction).
+- [Design Regression](https://designregression.com) - a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
 
 ## Interviews with David, profiles, and other appearances
 
-- Michailidis, Saša. **Fenomén: česká typografie včera, dnes a zítra   (ČT art) [Phenomenon: Czech typography yesterday, today, and tomorrow (Czech TV art)].** (In Czech.) 2021. [#link](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
+- Loring Murphy, Zoë. **How Important Is Harmony When Designing Multiscript Type Systems? An Interview With David Březina** Type 01, 2021. [#link](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)
+- Michailidis, Saša. **Fenomén: česká typografie včera, dnes a zítra [Phenomenon: Czech typography yesterday, today, and tomorrow].** (In Czech.) ČT art (Czech TV art), 2021. [#link](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
 - Hartmann, Timm, Sascha Thoma and Ben Wittner. **Forget your knowledge: Interview with David Březina of Rosetta Type.** In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018.
 - Pecina, Martin. **Nowe Terytoria.** In: 2+3D, issue 52, volume III/2014, 2014. [#link](http://www.2plus3d.pl/kwartalnik/52)
 - Middendorp, Jan. **Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.** In: Creative Characters: The faces behind the fonts, issue 71, 2013. [#link](https://www.myfonts.com/newsletters/cc/201306.html)
 - Stuttard, Jenny. **What is multi-script typography all about.** In: Rosetta Blog, 2013. [#link](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)
 - Falvey, Christian. Award-winning Czech typographer takes on Gujarati. Radio Praha, 2012. [#link](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)
-- Lutonský, František. **Interview for the Czech National News TV (ČT 24).** (In Czech.) 2012. [#link](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
+- Lutonský, František. **Interview for the Czech National News TV.** (In Czech.) ČT 24 (Czech TV), 2012. [#link](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
 - Pathak, Bharat. **This Czech is a Gujarati ‘type’.** Times of India, 28 March 2012. [#link](http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms)
 - Stocks, Elliot Jay. **David Březina.** In: 8 Faces, issue 4, 2011. [#link](http://www.8faces.com/info)
 - Fojtů, Martina. **Březina: Vytvářet písma je jako mluvit různými hlasy.** In: Magazine of the Masaryk University, 2011. [#link](https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy)
@@ -45,8 +47,11 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Academic publications
 
+- **Elements of multi-script typography: introduction** Design Regression, 2021. [#link](https://designregression.com/essay/elements-of-multi-script-typography-introduction)
+- Dyson, Mary & Březina, David. **Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?** Design Regression, 2021. [#link](https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces)
+- **Review: Character complexity and redundancy in writing systems over human history** Design Regression, 2021. [#link](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)
 - **Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.** PhD thesis. The University of Reading, 2018. [#link](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201)
-- Boček V & Březina D. **Typography follows linguistics? : on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program.** In: Hyphen : a typographic forum, volume 9/15. Institute for the study of Typography and Visual Communication, 2012.
+- Boček, Vít & Březina, David. **Typography follows linguistics? : on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program.** In: Hyphen : a typographic forum, volume 9/15. Institute for the study of Typography and Visual Communication, 2012.
 - **The evolution of the Gujarati typographic script.** Unpublished MA dissertation. The University of Reading, 2007.
 - **Reflection on practise.** Unpublished essay. The University of Reading, 2007.
 - **General issues in multi-script typography.** Unpublished essay. The University of Reading, 2007.
@@ -71,15 +76,16 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - **On diacritics.** In: I love typography, 2009. Edited by John Boardley. [#link](http://ilovetypography.com/2009/01/24/on-diacritics/) (There is a Russian translation of this article by Vasily V. Melenchuk [#link](http://habrahabr.ru/blogs/typography/52258/))
 - **Klimax.** (Typeface review in Czech and English.) In: TYPO 36, 2009.
 - **Odile & Elido.** (Typeface review in Czech and English.) In: TYPO 36, 2009.
-- Březina D & Vlachou I. **Maiola.** (Typeface review in Czech and English.) In: TYPO 33, 2008.
+- Březina, David & Vlachou, Irene. **Maiola.** (Typeface review in Czech and English.) In: TYPO 33, 2008.
 - **Greta.** (Typeface review in Czech and English.) In: TYPO 31, 2008.
-- Pecina M & Březina D. **Type Anatomy 1.0.** (In Czech and English.) In: Typomil, 2008. [#link](http://typomil.com/anatomy/)
+- Pecina, Martin & Březina, David. **Type Anatomy 1.0.** (In Czech and English.) In: Typomil, 2008. [#link](http://typomil.com/anatomy/)
 - **Non-Latin Typefaces.**(Exhibition review in Czech and English.) In: TYPO 29, 2007.
 
 
 ## Lectures
 
-- Dyson M & Březina D. **Challenging design training: do designers suffer more with harder to read typefaces?** At: ICTVC 7, Patras, 2019.
+- **Několik poznámek k modernismu v písmu.** (In Czech.) At: VOŠG, Hellichova, Prague, 2021.
+- Dyson, Mary & Březina, David. **Challenging design training: do designers suffer more with harder to read typefaces?** At: ICTVC 7, Patras, 2019.
 - **Character similarity and coherence in typeface design.** At: ICTVC 7, Patras, 2019.
 - **Několik poznámek k modernismu v písmu.** (In Czech.) At: FaVU (Faculty of Visual Arts) VUT, Brno, 2019.
 - **Recent projects from Rosetta.** (In Czech.) At: FaVU (Faculty of Visual Arts) VUT, Brno, 2018. Also at: Brno Design Days, Brno, 2018.
