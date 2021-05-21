@@ -32,7 +32,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Interviews with David, profiles, and other appearances
 
-- Loring Murphy, Zoë. **How Important Is Harmony When Designing Multiscript Type Systems? An Interview With David Březina** Type 01, 2021. [#link](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)
+- Loring Murphy, Zoë. **How Important Is Harmony When Designing Multiscript Type Systems? An Interview With David Březina.** Type 01, 2021. [#link](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)
 - Michailidis, Saša. **Fenomén: česká typografie včera, dnes a zítra [Phenomenon: Czech typography yesterday, today, and tomorrow].** (In Czech.) ČT art (Czech TV art), 2021. [#link](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
 - Hartmann, Timm, Sascha Thoma and Ben Wittner. **Forget your knowledge: Interview with David Březina of Rosetta Type.** In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018.
 - Pecina, Martin. **Nowe Terytoria.** In: 2+3D, issue 52, volume III/2014, 2014. [#link](http://www.2plus3d.pl/kwartalnik/52)
@@ -47,9 +47,9 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Academic publications
 
-- **Elements of multi-script typography: introduction** Design Regression, 2021. [#link](https://designregression.com/essay/elements-of-multi-script-typography-introduction)
+- **Elements of multi-script typography: introduction.** Design Regression, 2021. [#link](https://designregression.com/essay/elements-of-multi-script-typography-introduction)
 - Dyson, Mary & Březina, David. **Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?** Design Regression, 2021. [#link](https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces)
-- **Review: Character complexity and redundancy in writing systems over human history** Design Regression, 2021. [#link](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)
+- **Review: Character complexity and redundancy in writing systems over human history.** Design Regression, 2021. [#link](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)
 - **Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.** PhD thesis. The University of Reading, 2018. [#link](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201)
 - Boček, Vít & Březina, David. **Typography follows linguistics? : on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program.** In: Hyphen : a typographic forum, volume 9/15. Institute for the study of Typography and Visual Communication, 2012.
 - **The evolution of the Gujarati typographic script.** Unpublished MA dissertation. The University of Reading, 2007.
