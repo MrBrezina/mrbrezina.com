@@ -15,11 +15,12 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - [Hyperglot](https://hyperglot.rosettatype.com) – preview basic characters needed to write in the world’s languages (concept and art-direction).
 - [Design Regression](https://designregression.com) – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
+
 ## Upcoming appearances
 
 - 21 May 2022, Paris, France – [Puces Typo](https://www.campusfonderiedelimage.org/les-puces-typo-12/) - Rosetta merchandise stand
 - 23 June 2022, Paris, France – [TypeParis Talks](https://typeparis.com/events/) - free public talk & feedback sessions with Type Paris course participants
-- 7 June 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/ – *Hyperglot – a database and tools for discovering language support in fonts*
+- 7 June 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) – *Hyperglot – a database and tools for discovering language support in fonts*
 - 7 June 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) *Questioning the obvious: different ways of seeing*
 
 
