@@ -18,9 +18,9 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Upcoming appearances
 
-- 16 June 2022, Nancy, France – guest visit and lecture at [ANRT/ENSAD](https://anrt-nancy.fr/anrt-22/en)
-- 23 June 2022, Paris, France – guest visit and public lecture at [TypeParis Talks](https://typeparis.com/events/)
-- 7 July 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) – *Hyperglot – a database and tools for discovering language support in fonts*
+- 16 June 2022 – guest visit and lecture at [ANRT/ENSAD](https://anrt-nancy.fr/anrt-22/en), Nancy, France
+- 23 June 2022 – guest visit and public lecture at [TypeParis Talks](https://typeparis.com/events/), Paris, France
+- 7 July 2022 – *Hyperglot – a database and tools for discovering language support in fonts* at [ICTVC conference](https://ictvc.org/2022/en/), Thessaloniki, Greece
 
 
 ## Typeface design
