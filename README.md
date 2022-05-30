@@ -18,10 +18,9 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Upcoming appearances
 
-- 21 May 2022, Paris, France – [Puces Typo](https://www.campusfonderiedelimage.org/les-puces-typo-12/) - Rosetta merchandise stand
-- 23 June 2022, Paris, France – [TypeParis Talks](https://typeparis.com/events/) - free public talk & feedback sessions with Type Paris course participants
-- 7 June 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) – *Hyperglot – a database and tools for discovering language support in fonts*
-- 7 June 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) *Questioning the obvious: different ways of seeing*
+- 16 June 2022, Nancy, France – guest visit and lecture at [ANRT/ENSAD](https://anrt-nancy.fr/anrt-22/en)
+- 23 June 2022, Paris, France – guest visit and public lecture at [TypeParis Talks](https://typeparis.com/events/)
+- 7 July 2022, Thessaloniki, Greece – [ICTVC conference](https://ictvc.org/2022/en/) – *Hyperglot – a database and tools for discovering language support in fonts*
 
 
 ## Typeface design
