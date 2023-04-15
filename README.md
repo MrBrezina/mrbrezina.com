@@ -54,27 +54,27 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 ## Other publications
 
-- *[Ten years of Rosetta.](https://www.rosettatype.com/blog/2021/01/11/Ten-years-of-Rosetta)* In: Rosetta Blog, 2021.
-- *[The making of Adapter.](https://www.rosettatype.com/blog/2019/05/21/The-making-of-Adapter)* In: Rosetta Blog, 2019.
-- *[Yrsa & Rasa released.](https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released)* In: Rosetta Blog, 2016.
-- *[Harmonizing Rasa Gujarati and Yrsa Latin.](https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin)* In: Rosetta Blog, 2016.
-- *[Introducing Yrsa.](https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa)* In: Rosetta Blog, 2015.
-- *[Considerations in multilingual type design.](https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design)* In: Rosetta Blog, 2015.
-- *[Rethinking type experience.](https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience)* In: Rosetta Blog, 2014.
-- *[A Critical Approach To Typefaces.](http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/)* In: Smashing Magazine, 2013.
-- *[Balkan Sans (Typeface review).](https://typographica.org/typeface-reviews/balkan-sans/)* In: Typographica, 2013.
-- *[TYPO 49.](http://www.typo.cz/en/magazine/?cislo=49)* 2012. Guest editor.
-- *Indian type : An opportunity for real design innovation.* (In Czech and English.) In: TYPO 49, 2012.
-- *Challenges in multilingual type design.* In: Codex 2, 2012.
-- *Celeste.* (Typeface review in Czech and English.) In: TYPO 41, 2010.
-- *Tomate & Lavigne Display.* (Typeface review in Czech and English.) In: TYPO 39, 2010.
-- *[On diacritics.](http://ilovetypography.com/2009/01/24/on-diacritics/)* In: I love typography, 2009. Edited by John Boardley. (See also the [Russian translation](http://habrahabr.ru/blogs/typography/52258/) by Vasily V. Melenchuk.)
-- *Klimax.* (Typeface review in Czech and English.) In: TYPO 36, 2009.
-- *Odile & Elido.* (Typeface review in Czech and English.) In: TYPO 36, 2009.
+- Březina, David. *[Ten years of Rosetta.](https://www.rosettatype.com/blog/2021/01/11/Ten-years-of-Rosetta)* In: Rosetta Blog, 2021.
+- Březina, David. *[The making of Adapter.](https://www.rosettatype.com/blog/2019/05/21/The-making-of-Adapter)* In: Rosetta Blog, 2019.
+- Březina, David. *[Yrsa & Rasa released.](https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released)* In: Rosetta Blog, 2016.
+- Březina, David. *[Harmonizing Rasa Gujarati and Yrsa Latin.](https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin)* In: Rosetta Blog, 2016.
+- Březina, David. *[Introducing Yrsa.](https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa)* In: Rosetta Blog, 2015.
+- Březina, David. *[Considerations in multilingual type design.](https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design)* In: Rosetta Blog, 2015.
+- Březina, David. *[Rethinking type experience.](https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience)* In: Rosetta Blog, 2014.
+- Březina, David. *[A Critical Approach To Typefaces.](http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/)* In: Smashing Magazine, 2013.
+- Březina, David. *[Balkan Sans (Typeface review).](https://typographica.org/typeface-reviews/balkan-sans/)* In: Typographica, 2013.
+- Březina, David. *[TYPO 49.](http://www.typo.cz/en/magazine/?cislo=49)* 2012. Guest editor.
+- Březina, David. *Indian type : An opportunity for real design innovation.* (In Czech and English.) In: TYPO 49, 2012.
+- Březina, David. *Challenges in multilingual type design.* In: Codex 2, 2012.
+- Březina, David. *Celeste.* (Typeface review in Czech and English.) In: TYPO 41, 2010.
+- Březina, David. *Tomate & Lavigne Display.* (Typeface review in Czech and English.) In: TYPO 39, 2010.
+- Březina, David. *[On diacritics.](http://ilovetypography.com/2009/01/24/on-diacritics/)* In: I love typography, 2009. Edited by John Boardley. (See also the [Russian translation](http://habrahabr.ru/blogs/typography/52258/) by Vasily V. Melenchuk.)
+- Březina, David. *Klimax.* (Typeface review in Czech and English.) In: TYPO 36, 2009.
+- Březina, David. *Odile & Elido.* (Typeface review in Czech and English.) In: TYPO 36, 2009.
 - Březina, David & Vlachou, Irene. *Maiola.* (Typeface review in Czech and English.) In: TYPO 33, 2008.
-- *Greta.* (Typeface review in Czech and English.) In: TYPO 31, 2008.
+- Březina, David. *Greta.* (Typeface review in Czech and English.) In: TYPO 31, 2008.
 - Pecina, Martin & Březina, David. *[Type Anatomy 1.0.](http://typomil.com/anatomy/)* (In Czech and English.) In: Typomil, 2008.
-- *Non-Latin Typefaces.*(Exhibition review in Czech and English.) In: TYPO 29, 2007.
+- Březina, David. *Non-Latin Typefaces.*(Exhibition review in Czech and English.) In: TYPO 29, 2007.
 - Březina, David. *Reflection on practise.* Unpublished essay. The University of Reading, 2007.
 
 
