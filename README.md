@@ -135,7 +135,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - Pecina, Martin. *[Nowe Terytoria.](http://www.2plus3d.pl/kwartalnik/52)* In: 2+3D, issue 52, volume III/2014, 2014.
 - Middendorp, Jan. *[Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.](https://www.myfonts.com/newsletters/cc/201306.html)* In: Creative Characters: The faces behind the fonts, issue 71, 2013.
 - Stuttard, Jenny. *[What is multi-script typography all about.](https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography)* In: Rosetta Blog, 2013.
-- Falvey, Christian. *Award-winning Czech typographer takes on Gujarati.* Radio Praha, 9 June 2012. [#radio](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)
+- Falvey, Christian. *[Award-winning Czech typographer takes on Gujarati.](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)* Radio Praha, 9 June 2012. [#recording](https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1)
 - Lutonský, František. *Interview for the Czech National News TV.* (In Czech.) ČT 24 (Czech TV), 6 April 2012. [#recording](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
 - Pathak, Bharat. *[This Czech is a Gujarati ‘type’.](http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms)* Times of India, 28 March 2012.
 - Stocks, Elliot Jay. *[David Březina.](http://www.8faces.com/info)* In: 8 Faces, issue 4, 2011.
