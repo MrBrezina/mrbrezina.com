@@ -41,16 +41,15 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 ## Academic publications
 
 - Dyson, Mary & Březina, David. *[The sequel to exploring disfluency: Do we remember the visual appearance of words?.](https://designregression.com/research/the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words)* Design Regression, 2022.
-- *[Elements of multi-script typography: paragraphs and pixels.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-3)* Design Regression, 2022.
-- *[Elements of multi-script typography: codes, keys, and word shapes.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-2)* Design Regression, 2022.
-- *[Elements of multi-script typography: introduction.](https://designregression.com/essay/elements-of-multi-script-typography-introduction)* Design Regression, 2021.
+- Březina, David. *[Elements of multi-script typography: paragraphs and pixels.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-3)* Design Regression, 2022.
+- Březina, David. *[Elements of multi-script typography: codes, keys, and word shapes.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-2)* Design Regression, 2022.
+- Březina, David. *[Elements of multi-script typography: introduction.](https://designregression.com/essay/elements-of-multi-script-typography-introduction)* Design Regression, 2021.
 - Dyson, Mary & Březina, David. *[Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?](https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces)* Design Regression, 2021.
-- *[Review: Character complexity and redundancy in writing systems over human history.](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)* Design Regression, 2021.
-- *[Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201)* PhD thesis. The University of Reading, 2018.
+- Březina, David. *[Review: Character complexity and redundancy in writing systems over human history.](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)* Design Regression, 2021.
+- Březina, David. *[Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201)* PhD thesis. The University of Reading, 2018.
 - Boček, Vít & Březina, David. *Typography follows linguistics? : on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program.* In: Hyphen : a typographic forum, volume 9/15. Institute for the study of Typography and Visual Communication, 2012.
-- *The evolution of the Gujarati typographic script.* Unpublished MA dissertation. The University of Reading, 2007.
-- *Reflection on practise.* Unpublished essay. The University of Reading, 2007.
-- *General issues in multi-script typography.* Unpublished essay. The University of Reading, 2007.
+- Březina, David. *The evolution of the Gujarati typographic script.* Unpublished MA dissertation. The University of Reading, 2007.
+- Březina, David. *General issues in multi-script typography.* Unpublished essay. The University of Reading, 2007.
 
 
 ## Other publications
@@ -76,6 +75,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - *Greta.* (Typeface review in Czech and English.) In: TYPO 31, 2008.
 - Pecina, Martin & Březina, David. *[Type Anatomy 1.0.](http://typomil.com/anatomy/)* (In Czech and English.) In: Typomil, 2008.
 - *Non-Latin Typefaces.*(Exhibition review in Czech and English.) In: TYPO 29, 2007.
+- Březina, David. *Reflection on practise.* Unpublished essay. The University of Reading, 2007.
 
 
 ## Lectures
