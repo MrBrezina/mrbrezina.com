@@ -16,13 +16,6 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - [Design Regression](https://designregression.com) – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
 
-## Upcoming appearances
-
-- 16 June 2022 – guest visit and lecture at [ANRT/ENSAD](https://anrt-nancy.fr/anrt-22/en), Nancy, France
-- 23 June 2022 – guest visit and public lecture at [TypeParis Talks](https://typeparis.com/events/), Paris, France
-- 7 July 2022 – *Hyperglot – a database and tools for discovering language support in fonts* at [ICTVC conference](https://ictvc.org/2022/en/), Thessaloniki, Greece
-
-
 ## Typeface design
 
 - [Gridlite](http://rosettatype.com/Gridlite) (Cyrillic, Greek, Latin, 2020).
@@ -39,6 +32,7 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Interviews with David, profiles, and other appearances
 
+- Serret, Gina. **Q&A David Březina.** TypeParis, 22 July 2022. [link](https://typeparis.com/news/q-a-david-brezina)
 - Loring Murphy, Zoë. **How important is harmony when designing multiscript type systems? An interview with David Březina.** Type 01, 18 May 2021. [link](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)
 - Michailidis, Saša. **Fenomén: česká typografie včera, dnes a zítra [Phenomenon: Czech typography yesterday, today, and tomorrow].** (In Czech.) ČT art (Czech TV art), 9 March 2021. [link](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
 - Hartmann, Timm, Sascha Thoma and Ben Wittner. **Forget your knowledge: Interview with David Březina of Rosetta Type.** In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018. [link](http://www.bi-scriptual.com)
@@ -94,10 +88,15 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 
 ## Lectures
 
+- **Písmo jako základ vizuálního stylu.** (In Czech.) At: [Brno Bold](https://brnobold.cz/program), Brno, 2022.
+- Dyson, Mary & Březina, David. **Questioning the obvious: different ways of seeing.** At: [ICTVC 8](https://ictvc.org/2022/en/), Thessaloniki, 2022.
+- **Hyperglot – a database and tools for discovering language support in fonts.** At: [ICTVC 8](https://ictvc.org/2022/en/), Thessaloniki, 2022.
+- **Guest lecture about Rosetta and research.** At: [ANRT/ENSAD](https://anrt-nancy.fr/anrt-22/en), Nancy, France, 2022.
+- **Guest lecture about Rosetta and research.** At: [TypeParis Talks](https://typeparis.com/events/), Paris, France, 2022.
 - **Několik poznámek k modernismu v písmu.** (In Czech.) At: VOŠG, Hellichova, Prague, 2021.
 - **Několik poznámek k modernismu v písmu.** (In Czech.) At: SSUD, 2021.
-- Dyson, Mary & Březina, David. **Challenging design training: do designers suffer more with harder to read typefaces?** At: ICTVC 7, Patras, 2019.
-- **Character similarity and coherence in typeface design.** At: ICTVC 7, Patras, 2019.
+- Dyson, Mary & Březina, David. **Challenging design training: do designers suffer more with harder to read typefaces?** At: [ICTVC 7](https://ictvc.org/2019/en/), Patras, 2019.
+- **Character similarity and coherence in typeface design.** At: [ICTVC 7](https://ictvc.org/2019/en/), Patras, 2019.
 - **Několik poznámek k modernismu v písmu.** (In Czech.) At: FaVU (Faculty of Visual Arts) VUT, Brno, 2019.
 - **Recent projects from Rosetta.** (In Czech.) At: FaVU (Faculty of Visual Arts) VUT, Brno, 2018. Also at: Brno Design Days, Brno, 2018.
 - **Character similarity and coherence in typeface design.** At: Graphemics in 21st century: From graphemes to knowledge, Brest, 2018. [link](http://conferences.telecom-bretagne.eu/grafematik/) [#recording](https://www.youtube.com/watch?v=XjxeZxS74do)
@@ -110,13 +109,14 @@ Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#1
 - **Challenges in multilingual type design.** At: Typography day, Mumbai, 2012. Also at: NID, Ahmedabad, 2012.
 - **Písmo je na webu to nejdůležitější [Type is the most important thing on the Web]** (In Czech.) At: WebExpo, Prague, 2011.
 - **Specifying type consistency.** At: TypoTopo talks, Bratislava, 2011. Also at: Central Saint Martins, The University of the Arts London, London, 2012.
-- **Thinking in typeface design.** At: ICTVC 3 conference, Cyprus, 2010.
+- **Thinking in typeface design.** At: [ICTVC 3](http://www.ictvc.org/ictvc2010/), Cyprus, 2010.
 - **General issues in multi-script typography.** At: ATypI conference, Saint Petersburg, 2008. Also at: 4th International ConTeXt Meeting, 2010.
 - **On typeface design.** At: University of Ostrava, Ostrava, 2010. Also at: Academy of Fine Arts in Poznań, Cieszyn, 2010.
 
 
 ## Workshops
 
+- **Guest feedback sessions.** At: [TypeParis Talks](https://typeparis.com/events/), Paris, France, 2022.
 - **Návrh logotypu pro neznámý skript [Design of a logotype for an unfamiliar script]** (In Czech.) At: Faculty of Informatics, Masaryk University, Brno, 2019.
 - **A brief introduction to Python for data visualisation.** At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2016.
 - **A brief introduction to Python for type designers.** At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2015.
