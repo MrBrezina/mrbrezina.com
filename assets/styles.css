@@ -1,7 +1,14 @@
+/* Adapter Mono PE from Rosetta */
 
-/* Yrsa fonts from Google */
-
-@import url('https://fonts.googleapis.com/css?family=Yrsa:400,600');
+@supports (font-variation-settings: initial) {
+  @font-face {
+      font-display: block;
+      font-family: "AdapterMonoVF";
+      font-weight: 100 900;
+      font-style: normal;
+      src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+  }
+}
 
 /* General */
 
@@ -10,14 +17,14 @@ html, body {
 }
 
 html {
-  border-top: 15px solid rgb(236, 218, 57);
+  border-top: 5px solid rgb(120, 77, 206);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
   color: #111;
-  font-family: Yrsa, serif;
+  font-family: AdapterMonoVF, serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 14px;
   line-height: 150%;
 }
 
@@ -42,12 +49,23 @@ h2 {
 
 p {
   margin: 1em 0;
-  font-size: 31px;
   max-width: 1000px;
 }
 
+p.intro {
+  font-size: 32px;
+  font-variation-settings: "ital" 1, "slnt" -11, "wght" 300;
+  font-feature-settings: "ss07" on;
+}
+
 strong {
-  font-weight: 600;
+  font-weight: 500;
+}
+
+em {
+  font-style: normal;
+  font-variation-settings: "ital" 1, "slnt" -13, "wght" 400;
+  font-feature-settings: "ss07" on;
 }
 
 ul {
@@ -55,17 +73,15 @@ ul {
 }
 
 a {
-  font-weight: 600;
-  color: rgb(236, 218, 57);
+  color: rgb(120, 77, 206);
   text-decoration: none;
-  background-color: rgba(236, 218, 57, 0.1);
+  background-color: rgba(120, 77, 206, 0.07);
   border-radius: 5px;
   padding: 0 0.2em;
 }
 
 a:hover {
-  text-decoration: none;
-  background-color: rgba(236, 218, 57, 0.1);
+  text-decoration: underline;
 }
 
 .gray {
@@ -83,11 +99,11 @@ a:hover {
     width: 88%;
     padding: 1em 7% 3em 5%;
   }
-  body, li, p, h1, h2, h3, h4, h5 {
-    font-size: 24px;
+  body, li, h1, h2, h3, h4, h5 {
+    font-size: 14px;
   }
-  p {
-    font-size: 27px;
+  p, p.intro {
+    font-size: 24px;
   }
 }
 
@@ -96,7 +112,7 @@ a:hover {
     width: 90%;
     padding: 1em 5% 3em 5%;
   }
-  body, li, p, h1, h2, h3, h4, h5 {
-    font-size: 24px;
+  body, li, p, p.intro, h1, h2, h3, h4, h5 {
+    font-size: 12px;
   }
 }
