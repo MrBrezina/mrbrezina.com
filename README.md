@@ -21,17 +21,21 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 ## Typeface design
 
-- *[Adapter Mono PE](https://rosettatype.com/AdapterMonoPE)* (Cyrillic, Greek, Latin, 2022). Art-direction.
-- *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020).
-- *[Adapter World collection](https://rosettatype.com/fonts/#?collection=AdapterWorld)* (Arabic, Cyrillic, Greek, Hebrew, Latin, 2019–20). Art-direction.
-- *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20).
-- *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (Gujarati, Latin, 2016–2021). Art-direction, design by Anna Giedryś. Rasa is based on Skolar Gujarati.
-- *[Skolar Sans PE](https://rosettatype.com/SkolarSansPE)* (Cyrillic, Greek, Latin, 2014–16). Designed in collaboration with Sláva Jevčinová. Skolar Sans Arabic was designed by Titus Nemeth in 2016.
-- *[Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati)* (Gujarati, 2013). Design for Adobe, art-direction Fiona Ross.
-- *[Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI)* (Gujarati, 2012) Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
-- *[Skolar collection](https://rosettatype.com/fonts/#?collection=Skolar)* (Cyrillic, Greek, Gujarati, Latin, [Devanagari], 2009–2012). Skolar Devanagari was designed by Vaibhav Singh.
-- *Veto Devanagari* (Devanagari, 2009) Design and production for Linotype (now Monotype).
-- production and occassional art-direction of other projects from Rosetta
+- *[Adapter Mono PE](https://rosettatype.com/AdapterMonoPE)* (Cyrillic, Greek, Latin, 2022). Art direction, design by Tania Chacana.
+- *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
+- *[Adapter Hebrew](https://rosettatype.com/AdapterHebrew)* (2020). Art direction, design by Sláva Jevčinová.
+- *[Adapter Arabic](https://rosettatype.com/AdapterArabic)* (2020). Art direction, design by Borna Izadpanah.
+- *[Adapter PE](https://rosettatype.com/AdapterPE)* (Cyrillic, Greek, Latin, 2019). Art direction with William Montrose. Design by William Montrose and Sláva Jevčinová.
+- *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20). Design.
+- *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (Gujarati, Latin, 2016–2021). Art direction, design with Anna Giedryś.
+- *[Skolar Sans Arabic](https://rosettatype.com/SkolarSansArabic)* (2016). Art direction, designed by Titus Nemeth.
+- *[Skolar Sans PE](https://rosettatype.com/SkolarSansPE)* (Cyrillic, Greek, Latin, 2014–16). Designed with Sláva Jevčinová.
+- *[Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati)* (2013). Design for Adobe, art-direction Fiona Ross.
+- *[Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI)* (2012). Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
+- *[Skolar Devanagari](https://rosettatype.com/SkolarDevanagari)* (2012). Art direction, design by Vaibhav Singh.
+- *[Skolar Gujarati](https://rosettatype.com/SkolarGujarati)* (2012). Design.
+- *[Skolar PE](https://rosettatype.com/SkolarPE)* (Cyrillic, Greek, Latin, 2009–2012). Design.
+- *Veto Devanagari* (2009). Design for Linotype (now Monotype).
 
 
 ## Academic publications
