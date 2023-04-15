@@ -1,16 +1,16 @@
 # Permalinks
 
 # Setup
-title: MrBrezina
+title: David Březina
 description: Personal website of David Březina
-url: https://www.mrbrezina.com
+url: https://mrbrezina.com
 baseurl: ""
 
 # About/contact
 author:
   name: David Březina
-  url: https://www.mrbrezina.com
-  email: brezina@davi.cz
+  url: https://mrbrezina.com
+  email: hellow@mrbrezina.com
 
 # Build settings
 markdown: kramdown
