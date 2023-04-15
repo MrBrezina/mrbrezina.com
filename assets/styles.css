@@ -12,12 +12,9 @@
 
 /* General */
 
-html, body {
-  background: #f8f8f8;
-}
 
 html {
-  border-top: 5px solid rgb(120, 77, 206);
+  background: linear-gradient(90deg, rgba(247, 244, 70, 0.6) 0%, rgba(247, 244, 70, 0.0) 5%);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
@@ -54,8 +51,9 @@ p {
 
 p.intro {
   font-size: 32px;
-  font-variation-settings: "ital" 1, "slnt" -11, "wght" 300;
+  font-variation-settings: "ital" 1, "slnt" -11, "wght" 900;
   font-feature-settings: "ss07" on;
+  line-height: 144%;
 }
 
 strong {
@@ -114,5 +112,8 @@ a:hover {
   }
   body, li, p, p.intro, h1, h2, h3, h4, h5 {
     font-size: 12px;
+  }
+  p.intro {
+    font-variation-settings: "ital" 1, "slnt" -11, "wght" 700;
   }
 }

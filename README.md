@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-David Březina is a typeface designer, art director, writer, lecturer and managing director at Rosetta Type Foundry. He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
+David Březina is a typeface designer, art director, writer, lecturer and managing director at [Rosetta type design studio](https://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
 {:.intro}
 
 ## Contact
@@ -14,7 +14,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 ## Main projects
 
-- *[Rosetta](https://rosettatype.com)* – a leading typeface design studio and distributor of high-quality fonts for a growing number of the world’s scripts
+- *[Rosetta](https://rosettatype.com)* – a leading type design studio and distributor of high-quality fonts for a growing number of the world’s scripts
 - *[Hyperglot](https://hyperglot.rosettatype.com)* – preview basic characters needed to write in the world’s languages (concept and art-direction).
 - *[Design Regression](https://designregression.com)* – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
@@ -100,7 +100,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - *Rethinking type experience.* At: Smashing conference, Freiburg im Breisgau, 2013.
 - *Challenges in Indian type design.* At: Association of British Scholars, Vadodara, 2012.
 - *Challenges in multilingual type design.* At: Typography day, Mumbai, 2012. Also at: NID, Ahmedabad, 2012.
-- *Písmo je na webu to nejdůležitější [Type is the most important thing on the Web]* (In Czech.) At: WebExpo, Prague, 2011.
+- *Písmo je na webu to nejdůležitější.* (In Czech.) At: WebExpo, Prague, 2011.
 - *Specifying type consistency.* At: TypoTopo talks, Bratislava, 2011. Also at: Central Saint Martins, The University of the Arts London, London, 2012.
 - *Thinking in typeface design.* At: [ICTVC 3](http://www.ictvc.org/ictvc2010/), Cyprus, 2010.
 - *General issues in multi-script typography.* At: ATypI conference, Saint Petersburg, 2008. Also at: 4th International ConTeXt Meeting, 2010.
@@ -110,7 +110,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 ## Workshops
 
 - *Guest feedback sessions.* At: [TypeParis Talks](https://typeparis.com/events/), Paris, France, 2022.
-- *Návrh logotypu pro neznámý skript [Design of a logotype for an unfamiliar script]* (In Czech.) At: Faculty of Informatics, Masaryk University, Brno, 2019.
+- *Návrh logotypu pro neznámý skript.* (In Czech.) At: Faculty of Informatics, Masaryk University, Brno, 2019.
 - *A brief introduction to Python for data visualisation.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2016.
 - *A brief introduction to Python for type designers.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2015.
 - *Concepts for originality in typeface design and general feedback.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2013.
@@ -120,7 +120,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - *Type design workshops.* At: FaVU (Faculty of Visual Arts) VUT, Brno, 2011.
 - *Type design workflow and running a Type Foundry.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2011.
 - *Type design workshops.* At: FaVU (Faculty of Visual Arts) VUT, Brno, 2009–10.
-- *O písmu (On type).* (In Czech.) At: Pellico5 workshops, Brno, 2010.
+- *O písmu.* (In Czech.) At: Pellico5 workshops, Brno, 2010.
 - *Multilingual typography workshop.* At: Sign and typography studio of The Academy of Fine Arts in Poznań, Lanckorona, 2009.
 - *Type design process & automation.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2009.
 - *A brief introduction to Python for FontLab.* At: Monotype Imaging, Salfords, 2009.
@@ -130,7 +130,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 - Serret, Gina. *[Q&A David Březina.](https://typeparis.com/news/q-a-david-brezina)* TypeParis, 22 July 2022.
 - Loring Murphy, Zoë. *[How important is harmony when designing multiscript type systems? An interview with David Březina.](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)* Type 01, 18 May 2021.
-- Michailidis, Saša. *Fenomén: česká typografie včera, dnes a zítra* (In Czech.) ČT Art (Czech TV Art), 9 March 2021. [#recording](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
+- Michailidis, Saša. *Fenomén: česká typografie včera, dnes a zítra.* (In Czech.) ČT Art (Czech TV Art), 9 March 2021. [#recording](https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/)
 - Hartmann, Timm, Sascha Thoma and Ben Wittner. *[Forget your knowledge: Interview with David Březina of Rosetta Type.](http://www.bi-scriptual.com)* In: Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems, 2018.
 - Pecina, Martin. *[Nowe Terytoria.](http://www.2plus3d.pl/kwartalnik/52)* In: 2+3D, issue 52, volume III/2014, 2014.
 - Middendorp, Jan. *[Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina.](https://www.myfonts.com/newsletters/cc/201306.html)* In: Creative Characters: The faces behind the fonts, issue 71, 2013.
@@ -139,7 +139,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - Lutonský, František. *Interview for the Czech National News TV.* (In Czech.) ČT 24 (Czech TV), 6 April 2012. [#recording](https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/)
 - Pathak, Bharat. *[This Czech is a Gujarati ‘type’.](http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms)* Times of India, 28 March 2012.
 - Stocks, Elliot Jay. *[David Březina.](http://www.8faces.com/info)* In: 8 Faces, issue 4, 2011.
-- Fojtů, Martina. *[Březina: Vytvářet písma je jako mluvit různými hlasy.](https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy)* In: Magazine of the Masaryk University, 1 April 2011.
+- Fojtů, Martina. *[Březina: Vytvářet písma je jako mluvit různými hlasy.](https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy)* (In Czech.) In: Magazine of the Masaryk University, 1 April 2011.
 
 
 ## Design awards
