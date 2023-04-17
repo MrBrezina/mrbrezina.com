@@ -10,11 +10,18 @@
   }
 }
 
+:root {
+  --link-color: rgba(120, 77, 206, 1);
+  --light-link-color: rgba(120, 77, 206, 0.065);
+  --border: rgba(247, 244, 70, 0.6);
+  --background: #fff;
+}
+
 /* General */
 
 
 html {
-  background: linear-gradient(90deg, rgba(247, 244, 70, 0.6) 0%, rgba(247, 244, 70, 0.0) 5%);
+  background: linear-gradient(90deg, var(--border) 0%, var(--background) 5%);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
@@ -71,19 +78,15 @@ ul {
 }
 
 a {
-  color: rgb(120, 77, 206);
+  color: var(--link-color);
   text-decoration: none;
-  background-color: rgba(120, 77, 206, 0.07);
+  background-color: var(--light-link-color);
   border-radius: 5px;
   padding: 0 0.2em;
 }
 
 a:hover {
   text-decoration: underline;
-}
-
-.gray {
-  color: #212121;
 }
 
 .hide {
@@ -97,9 +100,11 @@ a:hover {
     width: 88%;
     padding: 1em 7% 3em 5%;
   }
+
   body, li, h1, h2, h3, h4, h5 {
     font-size: 14px;
   }
+
   p, p.intro {
     font-size: 24px;
   }
@@ -110,9 +115,11 @@ a:hover {
     width: 90%;
     padding: 1em 5% 3em 5%;
   }
+
   body, li, p, p.intro, h1, h2, h3, h4, h5 {
-    font-size: 12px;
+    font-size: 14px;
   }
+
   p.intro {
     font-variation-settings: "ital" 1, "slnt" -11, "wght" 700;
   }
