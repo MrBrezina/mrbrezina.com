@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-David Březina is a typeface designer, art director, writer, lecturer and managing director at [Rosetta type design studio](https://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
+David Březina is a typeface designer, art director, writer, lecturer and managing director at [Rosetta Type](https://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
 {:.intro}
 
 ## Contact
@@ -14,7 +14,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 ## Main projects
 
-- *[Rosetta](https://rosettatype.com)* – a leading type design studio and distributor of high-quality fonts for a growing number of the world’s scripts
+- *[Rosetta Type](https://rosettatype.com)* – a leading type design studio and distributor of high-quality fonts for a growing number of the world’s scripts
 - *[Hyperglot](https://hyperglot.rosettatype.com)* – preview basic characters needed to write in the world’s languages (concept and art-direction).
 - *[Design Regression](https://designregression.com)* – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
