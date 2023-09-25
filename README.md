@@ -11,6 +11,8 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 
 <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a>
 
+ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
+
 
 ## Main projects
 
@@ -46,7 +48,7 @@ David Březina is a typeface designer, art director, writer, lecturer and managi
 - Březina, David. *[Elements of multi-script typography: introduction.](https://designregression.com/essay/elements-of-multi-script-typography-introduction)* Design Regression, 2021.
 - Dyson, Mary & Březina, David. *[Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?](https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces)* Design Regression, 2021.
 - Březina, David. *[Review: Character complexity and redundancy in writing systems over human history.](https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history)* Design Regression, 2021.
-- Březina, David. *Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.* PhD thesis. The University of Reading, 2018. [#download](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201) [#doi](https://doi.org/10.48683/1926.00105306)
+- Březina, David. *Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin.* PhD thesis. The University of Reading, 2018. [#download](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.781201) [#doi](https://doi.org/10.48683/1926.00085141)
 - Boček, Vít & Březina, David. *Typography follows linguistics? : on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program.* In: Hyphen : a typographic forum, volume 9/15. Institute for the study of Typography and Visual Communication, 2012.
 - Březina, David. *The evolution of the Gujarati typographic script.* Unpublished MA dissertation. The University of Reading, 2007.
 - Březina, David. *General issues in multi-script typography.* Unpublished essay. The University of Reading, 2007.
