@@ -22,6 +22,8 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 
 ## Typeface design
 
+- *[Adapter Georgian](https://rosettatype.com/AdapterGeorgian)* (2024). Art direction, design by Ana Sanikidze.
+- *[Adapter Tamil](https://rosettatype.com/AdapterTamil)* (2023). Art direction, design by Aadarsh Rajan.
 - *[Adapter Mono PE](https://rosettatype.com/AdapterMonoPE)* (Cyrillic, Greek, Latin, 2022). Art direction, design by Tania Chacana.
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
 - *[Adapter Hebrew](https://rosettatype.com/AdapterHebrew)* (2020). Art direction, design by Sláva Jevčinová.
@@ -41,6 +43,7 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 
 ## Academic publications
 
+- Březina, David & Dyson, Mary. *[Can we selectively attend to the top halves of letters and ignore the bottom halves?.](https://designregression.com/article/can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves)* Design Regression, 2024.
 - Dyson, Mary & Březina, David. *[The sequel to exploring disfluency: Do we remember the visual appearance of words?.](https://designregression.com/research/the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words)* Design Regression, 2022.
 - Březina, David. *[Elements of multi-script typography: paragraphs and pixels.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-3)* Design Regression, 2022.
 - Březina, David. *[Elements of multi-script typography: codes, keys, and word shapes.](https://designregression.com/essay/elements-of-multi-script-typography-chapter-2)* Design Regression, 2022.
@@ -81,6 +84,7 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 
 ## Lectures
 
+- *Elements of multi-script typography: the wayfinding edition.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2024.
 - *Písmo jako základ vizuálního stylu.* (In Czech.) At: [Brno Bold](https://brnobold.cz/program), Brno, 2022.
 - Dyson, Mary & Březina, David. *Questioning the obvious: different ways of seeing.* At: [ICTVC 8](https://ictvc.org/2022/en/), Thessaloniki, 2022.
 - *Hyperglot – a database and tools for discovering language support in fonts.* At: [ICTVC 8](https://ictvc.org/2022/en/), Thessaloniki, 2022.
