@@ -14,7 +14,7 @@
   --link-color: rgba(120, 77, 206, 1);
   --light-link-color: rgba(120, 77, 206, 0.065);
   --border: rgba(247, 244, 70);
-  --background: rgb(255, 254, 239);
+  --background: rgb(255, 254, 244);
 }
 
 /* General */
@@ -22,6 +22,7 @@
 
 html {
   background: var(--background);
+  border: 2px solid var(--border);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
@@ -58,7 +59,7 @@ p {
 
 p.intro {
   font-size: 32px;
-  font-variation-settings: "ital" 1, "slnt" -11, "wght" 900;
+  font-variation-settings: "ital" 1, "slnt" -10, "wght" 600;
   font-feature-settings: "ss07" on;
   line-height: 144%;
 }
