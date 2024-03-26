@@ -4,7 +4,7 @@ permalink: /
 home: True
 ---
 
-David Březina is a typeface designer, art director, writer, lecturer and managing director at [Rosetta Type](https://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
+David Březina is a typeface designer, writer, lecturer, and managing director at [Rosetta Type](https://rosettatype.com). He designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
 {:.intro}
 
 ## Contact
