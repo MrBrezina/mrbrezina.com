@@ -6,22 +6,22 @@
       font-family: "AdapterMonoVF";
       font-weight: 100 900;
       font-style: normal;
-      src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+      src: url("https://webfonts.rosettatype.com/dr/AdapterMonoPEVF-All.woff2") format("woff2");
   }
 }
 
 :root {
   --link-color: rgba(120, 77, 206, 1);
   --light-link-color: rgba(120, 77, 206, 0.065);
-  --border: rgba(247, 244, 70, 0.6);
-  --background: #fff;
+  --border: rgba(247, 244, 70);
+  --background: rgb(255, 254, 239);
 }
 
 /* General */
 
 
 html {
-  background: linear-gradient(90deg, var(--border) 0%, var(--background) 5%);
+  background: var(--background);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
