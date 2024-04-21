@@ -12,36 +12,36 @@ David Březina is a typeface designer, writer, lecturer, and chief type officer 
 Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a>  
 ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 
-
 ## Main projects
 
 - *[Rosetta Type](https://rosettatype.com)* – a leading type design studio and distributor of high-quality fonts for a growing number of the world’s scripts
 - *[Hyperglot](https://hyperglot.rosettatype.com)* – preview basic characters needed to write in the world’s languages (concept and art-direction).
 - *[Design Regression](https://designregression.com)* – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
+## Typeface design (lead)
 
-## Typeface design
-
-- *[Adapter Georgian](https://rosettatype.com/AdapterGeorgian)* (2024). Art direction, design by Ana Sanikidze.
-- *[Adapter Tamil](https://rosettatype.com/AdapterTamil)* (2023). Art direction, design by Aadarsh Rajan.
-- *[Adapter Mono PE](https://rosettatype.com/AdapterMonoPE)* (Cyrillic, Greek, Latin, 2022). Art direction, design by Tania Chacana.
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
-- *[Adapter Hebrew](https://rosettatype.com/AdapterHebrew)* (2020). Art direction, design by Sláva Jevčinová.
-- *[Adapter Arabic](https://rosettatype.com/AdapterArabic)* (2020). Art direction, design by Borna Izadpanah.
-- *[Adapter PE](https://rosettatype.com/AdapterPE)* (Cyrillic, Greek, Latin, 2019). Art direction with William Montrose. Design by William Montrose and Sláva Jevčinová.
 - *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20). Design.
 - *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (Gujarati, Latin, 2016–2021). Art direction, design with Anna Giedryś.
-- *[Skolar Sans Arabic](https://rosettatype.com/SkolarSansArabic)* (2016). Art direction, designed by Titus Nemeth.
 - *[Skolar Sans PE](https://rosettatype.com/SkolarSansPE)* (Cyrillic, Greek, Latin, 2014–16). Designed with Sláva Jevčinová.
 - *[Adobe Gujarati](https://fonts.adobe.com/fonts/adobe-gujarati)* (2013). Design for Adobe, art-direction Fiona Ross.
 - *[Nirmala UI Gujarati](https://en.wikipedia.org/wiki/Nirmala_UI)* (2012). Design for Microsoft within Tiro Typeworks, art-direction Fiona Ross.
-- *[Skolar Devanagari](https://rosettatype.com/SkolarDevanagari)* (2012). Art direction, design by Vaibhav Singh.
 - *[Skolar Gujarati](https://rosettatype.com/SkolarGujarati)* (2012). Design.
 - *[Skolar PE](https://rosettatype.com/SkolarPE)* (Cyrillic, Greek, Latin, 2009–2012). Design.
 - *Veto Devanagari* (2009). Design for Linotype (now Monotype).
 
+## Typeface design (art direction)
 
-## Academic publications
+- *[Adapter Georgian](https://rosettatype.com/AdapterGeorgian)* (2024). Art direction, design by Ana Sanikidze.
+- *[Adapter Tamil](https://rosettatype.com/AdapterTamil)* (2023). Art direction, design by Aadarsh Rajan.
+- *[Adapter Mono PE](https://rosettatype.com/AdapterMonoPE)* (Cyrillic, Greek, Latin, 2022). Art direction, design by Tania Chacana.
+- *[Adapter Hebrew](https://rosettatype.com/AdapterHebrew)* (2020). Art direction, design by Sláva Jevčinová.
+- *[Adapter Arabic](https://rosettatype.com/AdapterArabic)* (2020). Art direction, design by Borna Izadpanah.
+- *[Adapter PE](https://rosettatype.com/AdapterPE)* (Cyrillic, Greek, Latin, 2019). Art direction with William Montrose. Design by William Montrose and Sláva Jevčinová.
+- *[Skolar Sans Arabic](https://rosettatype.com/SkolarSansArabic)* (2016). Art direction, designed by Titus Nemeth.
+- *[Skolar Devanagari](https://rosettatype.com/SkolarDevanagari)* (2012). Art direction, design by Vaibhav Singh.
+
+## Academic articles
 
 - Březina, David & Dyson, Mary. *[Can we selectively attend to the top halves of letters and ignore the bottom halves?.](https://designregression.com/article/can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves)* Design Regression, 2024.
 - Dyson, Mary & Březina, David. *[The sequel to exploring disfluency: Do we remember the visual appearance of words?.](https://designregression.com/research/the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words)* Design Regression, 2022.
@@ -55,8 +55,7 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - Březina, David. *The evolution of the Gujarati typographic script.* Unpublished MA dissertation. The University of Reading, 2007.
 - Březina, David. *General issues in multi-script typography.* Unpublished essay. The University of Reading, 2007.
 
-
-## Other publications
+## Other articles
 
 - Březina, David. *[Ten years of Rosetta.](https://www.rosettatype.com/blog/2021/01/11/Ten-years-of-Rosetta)* In: Rosetta Blog, 2021.
 - Březina, David. *[The making of Adapter.](https://www.rosettatype.com/blog/2019/05/21/The-making-of-Adapter)* In: Rosetta Blog, 2019.
@@ -80,7 +79,6 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - Pecina, Martin & Březina, David. *[Type Anatomy 1.0.](http://typomil.com/anatomy/)* (In Czech and English.) In: Typomil, 2008.
 - Březina, David. *Non-Latin Typefaces.*(Exhibition review in Czech and English.) In: TYPO 29, 2007.
 - Březina, David. *Reflection on practise.* Unpublished essay. The University of Reading, 2007.
-
 
 ## Lectures
 
@@ -111,7 +109,6 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - *General issues in multi-script typography.* At: ATypI conference, Saint Petersburg, 2008. Also at: 4th International ConTeXt Meeting, 2010.
 - *On typeface design.* At: University of Ostrava, Ostrava, 2010. Also at: Academy of Fine Arts in Poznań, Cieszyn, 2010.
 
-
 ## Workshops
 
 - *Guest feedback sessions.* At: [TypeParis Talks](https://typeparis.com/events/), Paris, France, 2022.
@@ -130,8 +127,7 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - *Type design process & automation.* At: The Department of Typography and Graphic Communication, The University of Reading, Reading, 2009.
 - *A brief introduction to Python for FontLab.* At: Monotype Imaging, Salfords, 2009.
 
-
-## Interviews with David, profiles, and other appearances
+## Interviews, profiles, and other appearances
 
 - Serret, Gina. *[Q&A David Březina.](https://typeparis.com/news/q-a-david-brezina)* TypeParis, 22 July 2022.
 - Loring Murphy, Zoë. *[How important is harmony when designing multiscript type systems? An interview with David Březina.](https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/)* Type 01, 18 May 2021.
@@ -146,7 +142,6 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - Stocks, Elliot Jay. *[David Březina.](http://www.8faces.com/info)* In: 8 Faces, issue 4, 2011.
 - Fojtů, Martina. *[Březina: Vytvářet písma je jako mluvit různými hlasy.](https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy)* (In Czech.) In: Magazine of the Masaryk University, 1 April 2011.
 
-
 ## Design awards
 
 - *Modern Cyrillic 2019* – art-direction of Adapter
@@ -156,7 +151,6 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - *Granshan 2009* – 1st prize (Cyrillic category) for Skolar Cyrillic
 - *Modern Cyrillic 2009* – special diploma for Skolar Cyrillic
 - *European Design Awards 2008* – silver for Skolar & Surat (Skolar Gujarati)
-
 
 ## Exhibitions
 
