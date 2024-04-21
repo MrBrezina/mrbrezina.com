@@ -18,7 +18,7 @@ ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)
 - *[Hyperglot](https://hyperglot.rosettatype.com)* – preview basic characters needed to write in the world’s languages (concept and art-direction).
 - *[Design Regression](https://designregression.com)* – a journalette (mini journal) publishing texts that are about design for reading and reading-related research
 
-## Typeface design (lead)
+## Typeface design (design)
 
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
 - *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20). Design.
