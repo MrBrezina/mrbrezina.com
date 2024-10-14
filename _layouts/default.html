@@ -50,6 +50,72 @@
 <body>
   <section>
     {{ content }}
+  
+    {% for cat in site.data.data.categories %}
+    <h2 id="#{{ cat.name | slugify: "latin" }}">{{ cat.name }}</h2>
+    <ul>
+      {% for p in cat.items %}
+      <li>
+        {% assign authors = "" %}
+        {% for a in p.authors %}
+          {% assign names = a | split: ", " %}
+          {% assign first_names = names[1] | split: " " %}
+          {% if first_names.size > 0 %}
+            {% assign name = names[0] | append: ", " %}
+            {% for fn in first_names %}
+              {% assign name = fn | slice: 0 | prepend: name | append: ". "%}
+            {% endfor %}
+          {% else %}
+            {% assign name = names[0] %}
+          {% endif %}
+          {% if a == p.authors.first and a == p.authors.last %}
+            {% assign authors = name | strip %}
+          {% elsif a != p.authors.last %}
+            {% assign authors = name | strip | prepend: authors | append: ", " %}
+          {% else %}
+            {% assign authors = name | strip | prepend: "& " | prepend: authors %}
+          {% endif %}
+        {% endfor %}
+
+        {{ authors }}
+
+
+        {% if p.date %}
+        ({{ p.date | date: "%Y"}}).
+        {% endif %}
+        
+        {% if p.url %}
+        {% capture title %}<a href="{{p.url}}">{{ p.title }}</a>{% endcapture %}
+        {% else %}
+        {% capture title %}{{ p.title }}{% endcapture %}
+        {% endif %}
+
+
+        {% if p.publication %}
+        {{ title }}. <em>{{p.publication}}</em>{% if p.volume %}, <em>{{p.volume}}</em>{% endif %}{% if p.issue %}({{p.issue}}){% endif %}.
+        {% else %}
+        <em>{{ title }}</em>.
+        {% endif %}
+        
+        {% if p.publisher %}
+          {{ p.publisher}}{% if p.location %}, {{ p.location}}{% endif %}.
+        {% else %}
+          {% if p.location %}
+            {{ p.location}}.
+          {% endif %}
+        {% endif %}
+
+        {% if p.note %}
+          ({{ p.note }})
+        {% endif %}
+
+        {% if p.doi %}
+          <a href="{{ p.doi}}">#doi</a>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
   </section>
 </body>
 </html>

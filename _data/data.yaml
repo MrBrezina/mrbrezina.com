@@ -1,0 +1,680 @@
+categories:
+- name: Academic articles
+  items:
+  - authors:
+    - Březina, David
+    - Dyson, Mary C.
+    title: "Can we selectively attend to the top halves of letters and ignore the bottom halves?"
+    publication: Design Regression
+    date: 2024-01-01
+    url: https://designregression.com/article/can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves
+  - authors:
+    - Dyson, Mary C.
+    - Březina, David
+    title: "The sequel to exploring disfluency: Do we remember the visual appearance of words?"
+    publication: Design Regression
+    date: 2022-01-01
+    url: https://designregression.com/research/the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words
+  - authors:
+    - Březina, David
+    title: "Elements of multi-script typography: paragraphs and pixels"
+    publication: Design Regression
+    date: 2022-01-01
+    url: https://designregression.com/essay/elements-of-multi-script-typography-chapter-3
+  - authors:
+    - Březina, David
+    title: "Elements of multi-script typography: codes, keys, and word shapes"
+    publication: Design Regression
+    date: 2022-01-01
+    url: https://designregression.com/essay/elements-of-multi-script-typography-chapter-2
+  - authors:
+    - Březina, David
+    title: "Elements of multi-script typography: introduction"
+    publication: Design Regression
+    date: 2021-01-01
+    url: https://designregression.com/essay/elements-of-multi-script-typography-introduction
+  - authors:
+    - Dyson, Mary C.
+    - Březina, David
+    title: "Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?"
+    publication: Design Regression
+    date: 2021-01-01
+    url: https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces
+  - authors:
+    - Březina, David
+    title: "Review: Character complexity and redundancy in writing systems over human history"
+    publication: Design Regression
+    date: 2021-01-01
+    url: https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history
+  - authors:
+    - Březina, David
+    title: "Coherence in typeface design: visual similarity of characters in Cyrillic, Devanagari, and Latin"
+    publisher: The University of Reading
+    date: 2018-01-01
+    note: PhD thesis
+    url: https://centaur.reading.ac.uk/85141/
+    doi: https://doi.org/10.48683/1926.00085141
+  - authors:
+    - Boček, Vít
+    - Březina, David
+    title: "Typography follows linguistics?: on some parallels between the Prague School of Linguistics and Karel Teige’s typographic program"
+    publication: "Hyphen: a typographic forum"
+    volume: 9
+    issue: 15
+    publisher: Institute for the study of Typography and Visual Communication
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: The evolution of the Gujarati typographic script
+    publisher: The University of Reading
+    date: 2007-01-01
+    note: MA dissertation
+  - authors:
+    - Březina, David
+    title: General issues in multi-script typography
+    publisher: The University of Reading
+    date: 2007-01-01
+
+- name: Other articles
+  items:
+  - authors:
+    - Březina, David
+    title: Ten years of Rosetta
+    publication: Rosetta Blog
+    date: 2021-01-01
+    url: https://www.rosettatype.com/blog/2021/01/11/Ten-years-of-Rosetta
+  - authors:
+    - Březina, David
+    title: The making of Adapter
+    publication: Rosetta Blog
+    date: 2019-01-01
+    url: https://www.rosettatype.com/blog/2019/05/21/The-making-of-Adapter
+  - authors:
+    - Březina, David
+    title: Yrsa & Rasa released
+    publication: Rosetta Blog
+    date: 2016-01-01
+    url: https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released
+  - authors:
+    - Březina, David
+    title: Harmonizing Rasa Gujarati and Yrsa Latin
+    publication: Rosetta Blog
+    date: 2016-01-01
+    url: https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin
+  - authors:
+    - Březina, David
+    title: Introducing Yrsa.
+    publication: Rosetta Blog
+    date: 2015-01-01
+    url: https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa
+  - authors:
+    - Březina, David
+    title: Considerations in multilingual type design
+    publication: Rosetta Blog
+    date: 2015-01-01
+    url: https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design
+  - authors:
+    - Březina, David
+    title: Rethinking type experience
+    url: https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience
+    publication: Rosetta Blog
+    date: 2014-01-01
+  - authors:
+    - Březina, David
+    title: A critical approach to typefaces
+    publication: Smashing Magazine
+    date: 2013-01-01
+    url: http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/
+  - authors:
+    - Březina, David
+    title: Balkan Sans [typeface review]
+    publication: Typographica
+    date: 2013-01-01
+    url: https://typographica.org/typeface-reviews/balkan-sans/
+  # - authors:
+  #   - Březina, David
+  #   title: TYPO
+  #   volume: 49
+  #   date: 2012-01-01
+  #   url: http://www.typo.cz/en/magazine/?cislo=49
+  #   note: Guest editor
+  - authors:
+    - Březina, David
+    title: "Indian type: An opportunity for real design innovation"
+    publication: TYPO
+    volume: 49
+    date: 2012-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: Challenges in multilingual type design
+    publication: Codex
+    volume: 2
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Celeste [typeface review]
+    publication: TYPO
+    volume: 41
+    date: 2010-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: Tomate & Lavigne Display [typeface review]
+    publication: TYPO
+    volume: 39
+    date: 2010-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: On diacritics
+    publication: I love typography
+    editor: John Boardley
+    date: 2009-01-01
+    url: http://ilovetypography.com/2009/01/24/on-diacritics/
+    note: See also the <a href="http://habrahabr.ru/blogs/typography/52258/">Russian translation</a> by Vasily V. Melenchuk
+  - authors:
+    - Březina, David
+    title: Klimax [typeface review]
+    publication: TYPO
+    volume: 36
+    date: 2009-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: Odile & Elido [typeface review]
+    publication: TYPO
+    volume: 36
+    date: 2009-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    - Vlachou, Irene
+    title: Maiola [typeface review]
+    publication: TYPO
+    volume: 33
+    date: 2008-01-01
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: Greta [typeface review]
+    publication: TYPO
+    volume: 31
+    date: 2008-01-01
+    note: In Czech and English
+  - authors:
+    - Pecina, Martin
+    - Březina, David
+    title: Type Anatomy 1.0.
+    publication: Typomil
+    date: 2008-01-01
+    url: http://typomil.com/anatomy/
+    note: In Czech and English
+  - authors:
+    - Březina, David
+    title: Non-Latin Typefaces [exhibition review]
+    publication: TYPO
+    volume: 29
+    date: 2007-01-01
+    note: In Czech and English
+      
+- name: Lectures
+  items:
+  - authors:
+    - Březina, David
+    title: "Elements of multi-script typography: the wayfinding edition"
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2024-01-01
+  - authors:
+    - Březina, David
+    title: Písmo jako základ vizuálního stylu
+    publisher: Brno Bold
+    location: Brno, Czechia
+    date: 2022-01-01
+    url: https://brnobold.cz/program
+  - authors:
+    - Dyson, Mary C.
+    - Březina, David
+    title: "Questioning the obvious: different ways of seeing"
+    publication: ICTVC
+    volume: 8
+    location: Thessaloniki, Greece
+    date: 2022-01-01
+    url: https://ictvc.org/2022/en/
+  - authors:
+    - Březina, David
+    title: "Hyperglot – a database and tools for discovering language support in fonts"
+    publication: ICTVC
+    volume: 8
+    location: Thessaloniki, Greece
+    date: 2022-01-01
+    url: https://ictvc.org/2022/en/
+  - authors:
+    - Březina, David
+    title: About Rosetta and research
+    publisher: ANRT/ENSAD
+    location: Nancy, France
+    date: 2022-01-01
+    url: https://anrt-nancy.fr/anrt-22/en
+  - authors:
+    - Březina, David
+    title: About Rosetta and research
+    publisher: TypeParis Talks
+    location: Paris, France
+    date: 2022-01-01
+    url: https://typeparis.com/events/david-brezina
+  - authors:
+    - Březina, David
+    title: Několik poznámek k modernismu v písmu
+    publisher: VOŠG, Hellichova
+    location: online
+    date: 2021-01-01
+  - authors:
+    - Březina, David
+    title: Několik poznámek k modernismu v písmu
+    publisher: SSUD
+    location: Brno, Czechia
+    date: 2021-01-01
+  - authors:
+    - Dyson, Mary C.
+    - Březina, David
+    title: "Challenging design training: do designers suffer more with harder to read typefaces?"
+    publication: ICTVC
+    volume: 7
+    location: Patras, Greece
+    date: 2019-01-01
+    url: https://ictvc.org/2019/en/
+  - authors:
+    - Březina, David
+    title: Character similarity and coherence in typeface design
+    publication: ICTVC
+    volume: 7
+    location: Patras, Greece
+    date: 2019-01-01
+    url: https://ictvc.org/2019/en/
+  - authors:
+    - Březina, David
+    title: Několik poznámek k modernismu v písmu
+    publisher: FaVU (Faculty of Visual Arts) VUT
+    location: Brno, Czechia
+    date: 2019-01-01
+  - authors:
+    - Březina, David
+    title: Recent projects from Rosetta
+    publisher: FaVU (Faculty of Visual Arts) VUT
+    location: Brno, Czechia
+    date: 2018-01-01
+  - authors:
+    - Březina, David
+    title: Recent projects from Rosetta
+    publisher: Brno Design Days
+    location: Brno, Czechia
+    date: 2018-01-01
+  - authors:
+    - Březina, David
+    title: Character similarity and coherence in typeface design
+    publisher: "Graphemics in 21st century: From graphemes to knowledge"
+    location: Brest, France
+    date: 2018-01-01
+    url: http://conferences.telecom-bretagne.eu/grafematik/
+  - authors:
+    - Březina, David
+    title: Some of the things I do not know about typefaces
+    publisher: Typostammtisch
+    location: Berlin, Germany
+    date: 2017-01-01
+  - authors:
+    - Březina, David
+    title: Recent projects from Rosetta
+    publisher: Typostammtisch
+    location: Berlin, Germany
+    date: 2017-01-01
+  - authors:
+    - Březina, David
+    title: Recent projects from Rosetta
+    publisher: Du monde entier au cœur du monde
+    location: Paris, France
+    date: 2015-01-01
+  - authors:
+    - Březina, David
+    title: "Letters of Rosetta: from Brno to Bern"
+    publication: TypEast
+    location: Bern, Switzerland
+    date: 2015-01-01
+  - authors:
+    - Březina, David
+    title: Challenges in multilingual type design (II)
+    publication: ATypI conference
+    location: Amsterdam, Netherlands
+    date: 2013-01-01
+  - authors:
+    - Březina, David
+    title: Rethinking type experience
+    publisher: Smashing conference
+    location: Freiburg im Breisgau, Germany
+    date: 2013-01-01
+  - authors:
+    - Březina, David
+    title: Challenges in Indian type design
+    publisher: Association of British Scholars
+    location: Vadodara, India
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Challenges in multilingual type design
+    publication: Typography day
+    publisher: IID
+    location: Mumbai, India
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Challenges in multilingual type design
+    publisher: NID
+    location: Ahmedabad, India
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Písmo je na webu to nejdůležitější
+    publisher: WebExpo
+    location: Prague, Czechia
+    date: 2011-01-01
+  - authors:
+    - Březina, David
+    title: Specifying type consistency
+    publication: TypoTopo talks
+    location: Bratislava, Slovakia
+    date: 2011-01-01
+  - authors:
+    - Březina, David
+    title: Specifying type consistency
+    publisher: The University of the Arts London
+    location: London, UK
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Thinking in typeface design
+    publication: ICTVC
+    volume: 3
+    location: Nicosia, Cyprus
+    date: 2010-01-01
+    url: http://www.ictvc.org/ictvc2010/
+  - authors:
+    - Březina, David
+    title: General issues in multi-script typography
+    publisher: ATypI conference
+    location: Saint Petersburg, Russia
+    date: 2010-01-01
+  - authors:
+    - Březina, David
+    title: General issues in multi-script typography
+    publisher: 4th International ConTeXt Meeting
+    location: Brejlov (Prague), Czechia
+    date: 2010-01-01
+    url: https://meeting.contextgarden.net/2010/
+  - authors:
+    - Březina, David
+    title: On typeface design
+    publisher: University of Ostrava
+    location: Ostrava, Czechia
+    date: 2010-01-01
+  - authors:
+    - Březina, David
+    title: On typeface design
+    publisher: Academy of Fine Arts in Poznań
+    location: Cieszyn, Poland
+    date: 2010-01-01
+
+- name: Workshops
+  items:
+  - authors:
+    - Březina, David
+    title: Guest feedback sessions
+    publisher: TypeParis Talks
+    location: Paris, France
+    date: 2022-01-01
+  - authors:
+    - Březina, David
+    title: Návrh logotypu pro neznámý skript
+    publisher: Masaryk University
+    location: Brno, Czechia
+    date: 2019-01-01
+  - authors:
+    - Březina, David
+    title: A brief introduction to Python for data visualisation
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2016-01-01
+  - authors:
+    - Březina, David
+    title: A brief introduction to Python for type designers
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2015-01-01
+  - authors:
+    - Březina, David
+    title: Concepts for originality in typeface design
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2013-01-01
+  - authors:
+    - Březina, David
+    title: Type design workshop focused on webfonts
+    publisher: Seznam.cz
+    location: Brno, Czechia
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Concepts for originality in type design
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Type design workshop
+    publisher: University of the Arts London
+    location: London, UK
+    date: 2012-01-01
+  - authors:
+    - Březina, David
+    title: Type design workshops
+    publisher: FaVU (Faculty of Visual Arts) VUT
+    location: Brno, Czechia
+    date: 2011-01-01
+  - authors:
+    - Březina, David
+    title: Type design workflow and running a Type Foundry
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2011-01-01
+  - authors:
+    - Březina, David
+    title: Type design workshops
+    publisher: FaVU (Faculty of Visual Arts) VUT
+    location: Brno, Czechia
+    date: 2009-01-01
+  - authors:
+    - Březina, David
+    title: O písmu
+    publisher: Pellico5 workshops
+    location: Brno, Czechia
+    date: 2010-01-01
+  - authors:
+    - Březina, David
+    title: Multilingual typography workshop
+    publisher: The Academy of Fine Arts in Poznań
+    location: Lanckorona, Poland
+    date: 2009-01-01
+  - authors:
+    - Březina, David
+    title: Type design process & automation
+    publisher: The University of Reading
+    location: Reading, UK
+    date: 2009-01-01
+  - authors:
+    - Březina, David
+    title: A brief introduction to Python for FontLab
+    publisher: Monotype Imaging
+    location: Salfords, UK
+    date: 2009-01-01
+
+- name: Interviews, profiles, and other appearances
+  items:
+  - authors:
+    - Serret, Gina
+    title: Q&A David Březina
+    publication: TypeParis News
+    exact date: 2022-07-22
+    date: 2022-01-01
+    url: https://typeparis.com/news/q-a-david-brezina
+  - authors:
+    - Murphy, Zoë Loring
+    title: "How important is harmony when designing multiscript type systems? An interview with David Březina"
+    publication: Type 01
+    exact date: 2021-05-18
+    date: 2021-01-01
+    url: https://type-01.com/how-important-is-harmony-when-designing-multiscript-type-systems-an-interview-with-david-brezina/
+  - authors:
+    - Michailidis, Saša
+    title: "Fenomén: česká typografie včera, dnes a zítra"
+    publication: ČT Art
+    publisher: Czech TV
+    exact date: 2021-03-09
+    date: 2021-01-01
+    url: https://www.ceskatelevize.cz/porady/12072033166-artzona/221542151010007/
+  - authors:
+    - Hartmann, Timm
+    - Thoma, Sascha
+    - Wittner, Ben
+    title: "Forget your knowledge: Interview with David Březina of Rosetta Type"
+    publication: "Bi-Scriptual: Typography and Graphic Design with Multiple Script Systems"
+    date: 2018-01-01
+    url: http://www.bi-scriptual.com
+  - authors:
+    - Pecina, Martin
+    title: Nowe Terytoria
+    publication: 2+3D
+    volume: 52
+    date: 2014-01-01
+    url: http://www.2plus3d.pl/kwartalnik/52
+  - authors:
+    - Middendorp, Jan
+    title: "Rosetta Type Foundry: Vaibhav Singh, Titus Nemeth, David Březina"
+    publication: "Creative Characters: The faces behind the fonts"
+    volume: 71
+    date: 2013-01-01
+    url: https://www.myfonts.com/newsletters/cc/201306.html
+  - authors:
+    - Stuttard, Jenny
+    title: What is multi-script typography all about
+    publication: Rosetta Blog
+    date: 2013-01-01
+    url: https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography
+  - authors:
+    - Falvey, Christian
+    title: Award-winning Czech typographer takes on Gujarati
+    publication: Radio Praha
+    exact date: 2012-06-09
+    date: 2012-01-01
+    url: https://www.radio.cz/en/section/panorama/award-winning-czech-typographer-takes-on-gujarati-1
+  - authors:
+    - Lutonský, František
+    title: Interview for the Czech National News TV
+    publication: ČT 24
+    publisher: Czech TV
+    exact date: 2012-04-06
+    date: 2012-01-01
+    url: https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/212411058060406/
+  - authors:
+    - Pathak, Bharat
+    title: This Czech is a Gujarati ‘type’
+    publication: Times of India
+    exact date: 2012-03-28
+    date: 2012-01-01
+    url: http://timesofindia.indiatimes.com/city/vadodara/This-Czech-is-a-Gujarati-type/articleshow/12435467.cms
+  - authors:
+    - Stocks, Elliot Jay
+    title: David Březina
+    publication: 8 Faces
+    volume: 4
+    date: 2011-01-01
+    url: http://www.8faces.com
+  - authors:
+    - Fojtů, Martina
+    title: "Březina: Vytvářet písma je jako mluvit různými hlasy"
+    publication: Magazine of the Masaryk University
+    exact date: 2011-04-01
+    date: 2011-01-01
+    url: https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy
+
+- name: Design awards
+  items:
+  - authors:
+    - Jevčinová, Sláva
+    - Březina, David
+    title: Award for Adapter PE
+    publisher: Modern Cyrillic
+    date: 2019-01-01
+  - authors:
+    - Březina, David
+    - Jevčinová, Sláva
+    - Saraiva, Rafael
+    title: Silver award for Skolar Sans Latin
+    publisher: European Design Awards
+    date: 2015-01-01
+  - authors:
+    - Březina, David
+    title: 2nd prize (Indic category) for Skolar Gujarati
+    publisher: Granshan
+    date: 2013-01-01
+  - authors:
+    - Březina, David
+    title: 1st prize (Cyrillic category) for Skolar Cyrillic
+    publisher: Granshan
+    date: 2009-01-01
+  - authors:
+    - Březina, David
+    title: Special diploma for Skolar Cyrillic
+    publisher: Modern Cyrillic
+    date: 2009-01-01
+  - authors:
+    - Březina, David
+    title: Silver for Skolar & Surat (Skolar Gujarati)
+    publisher: European Design Awards
+    date: 2008-01-01
+
+- name: Exhibitions
+  items:
+  - title: Granshan exhibition (ATypI Warszaw)
+    date: 2016-01-01
+    location: Warszaw, Poland
+  - title: Granshan exhibition
+    date: 2013-01-01
+    location: Bangkok, Thailand
+  - title: 24th International Biennial of Graphic design in Brno
+    date: 2012-01-01
+    location: Brno, Czechia
+  - title: 23rd International Biennial of Graphic design in Brno
+    date: 2010-01-01
+    location: Brno, Czechia
+  - title: 22nd International Biennial of Graphic design in Brno
+    date: 2008-01-01
+    location: Brno, Czechia
+  - title: 21st International Biennial of Graphic design in Brno
+    date: 2006-01-01
+    location: Brno, Czechia
+  - title: Collective type design exhibition at Klingspor-Museum Offenbach
+    date: 2010-01-01
+    location: Offenbach, Germany
+  - title: Modern Cyrillic exhibition (ATypI Mexico City)
+    date: 2009-01-01
+    location: Mexico City, Mexico
+  - title: TypeTogether collective exhibition
+    location: Poznań, Poland
+    date: 2011-01-01
+  - title: TypeTogether collective exhibition
+    location: Cieszyn, Poland
+    date: 2010-01-01
+  - title: TypeTogether collective exhibition
+    location: Rosario, Argentina
+    date: 2008-01-01
