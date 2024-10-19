@@ -49,7 +49,7 @@ categories:
     url: https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces
   - authors:
     - Březina, David
-    title: "Review: Character complexity and redundancy in writing systems over human history"
+    title: Character complexity and redundancy in writing systems over human history [review]
     publication: Design Regression
     date: 18. 5. 2021
     url: https://designregression.com/review/character-complexity-and-redundancy-in-writing-systems-over-human-history
@@ -87,56 +87,56 @@ categories:
   - authors:
     - Březina, David
     title: Ten years of Rosetta
-    publication: Rosetta Blog
-    date: 1. 1. 2021
-    url: https://www.rosettatype.com/blog/2021/01/11/Ten-years-of-Rosetta
+    publication: Rosetta Articles
+    date: 11. 1. 2021
+    url: https://rosettatype.com/articles/2021-01-11-ten-years-of-rosetta/
   - authors:
     - Březina, David
     title: The making of Adapter
-    publication: Rosetta Blog
-    date: 1. 1. 2019
-    url: https://www.rosettatype.com/blog/2019/05/21/The-making-of-Adapter
+    publication: Rosetta Articles
+    date: 21. 5. 2019
+    url: https://rosettatype.com/articles/2019-05-21-the-making-of-adapter/
   - authors:
     - Březina, David
     title: Yrsa & Rasa released
-    publication: Rosetta Blog
-    date: 1. 1. 2016
-    url: https://www.rosettatype.com/blog/2016/03/16/Yrsa-Rasa-released
+    publication: Rosetta Articles
+    date: 16. 3. 2016
+    url: https://rosettatype.com/articles/2016-03-16-yrsa-rasa-released/
   - authors:
     - Březina, David
     title: Harmonizing Rasa Gujarati and Yrsa Latin
-    publication: Rosetta Blog
-    date: 1. 1. 2016
-    url: https://www.rosettatype.com/blog/2016/01/20/Harmonizing-Rasa-Gujarati-and-Yrsa-Latin
+    publication: Rosetta Articles
+    date: 20. 1. 2016
+    url: https://rosettatype.com/articles/2016-01-20-harmonizing-rasa-gujarati-and-yrsa-latin/
   - authors:
     - Březina, David
     title: Introducing Yrsa.
-    publication: Rosetta Blog
-    date: 1. 1. 2015
-    url: https://www.rosettatype.com/blog/2015/09/01/Introducing-Yrsa
+    publication: Rosetta Articles
+    date: 1. 9. 2015
+    url: https://rosettatype.com/articles/2015-09-01-introducing-yrsa/
   - authors:
     - Březina, David
     title: Considerations in multilingual type design
-    publication: Rosetta Blog
-    date: 1. 1. 2015
-    url: https://www.rosettatype.com/blog/2015/02/16/Considerations-in-multilingual-type-design
+    publication: Rosetta Articles
+    date: 16. 2. 2015
+    url: https://rosettatype.com/articles/2015-02-16-considerations-in-multilingual-type-design/
   - authors:
     - Březina, David
     title: Rethinking type experience
-    url: https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience
-    publication: Rosetta Blog
-    date: 1. 1. 2014
+    #url: https://www.rosettatype.com/blog/2014/07/01/Rethinking-type-experience
+    publication: Rosetta Articles
+    date: 1. 7. 2014
   - authors:
     - Březina, David
     title: A critical approach to typefaces
     publication: Smashing Magazine
-    date: 1. 1. 2013
+    date: 12. 2. 2013
     url: http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/
   - authors:
     - Březina, David
     title: Balkan Sans [typeface review]
     publication: Typographica
-    date: 1. 1. 2013
+    date: 13. 3. 2013
     url: https://typographica.org/typeface-reviews/balkan-sans/
   # - authors:
   #   - Březina, David
@@ -593,9 +593,9 @@ categories:
   - authors:
     - Stuttard, Jenny
     title: What is multi-script typography all about
-    publication: Rosetta Blog
-    date: 1. 1. 2013
-    url: https://www.rosettatype.com/blog/2013/02/05/What-is-multiscript-typography
+    publication: Rosetta Articles
+    date: 2. 5. 2013
+    url: https://rosettatype.com/articles/2013-02-05-what-is-multiscript-typography/
   - authors:
     - Falvey, Christian
     title: Award-winning Czech typographer takes on Gujarati
