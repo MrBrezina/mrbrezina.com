@@ -22,6 +22,7 @@
     <!-- me, myself, and I -->
     <link rel="me" href="https://mrbrezina.com/">
     <link rel="me" href="https://github.com/mrbrezina">
+    <link rel="me" href="https://orcid.org/0009-0007-4410-0133">
 
     <!-- favicons -->
     <link rel="icon" href="/assets/favicon/favicon.ico" sizes="any">
@@ -30,8 +31,10 @@
     <link rel="manifest" href="/assets/favicon/site.webmanifest">
     <meta name="theme-color" content="#784DCE">
 
-    <!-- OG and Twitter -->
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
 
+    <!-- OG and Twitter -->
     <meta property="og:title" content="{{ title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}" />
@@ -51,6 +54,7 @@
   <section>
     {{ content }}
   
+    <!-- Bibliography (APA styůe) -->
     {% for cat in site.data.data.categories %}
     <h2 id="#{{ cat.name | slugify: "latin" }}">{{ cat.name }}</h2>
     <ul>
@@ -110,7 +114,7 @@
         {% endif %}
 
         {% if p.doi %}
-          <a href="{{ p.doi}}">#doi</a>
+          <a href="{{ p.doi}}">{{ p.doi}}</a>
         {% endif %}
       </li>
       {% endfor %}

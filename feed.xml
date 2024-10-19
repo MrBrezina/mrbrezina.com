@@ -1,0 +1,47 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for cat in site.data.data.categories %}
+        {% for p in cat.items limit:100 %}
+            {% if p.sitemap != false %}
+            <item>
+                <title>{{ p.title | xml_escape }}</title>
+                <description>
+                    {% capture authors %}
+                    {% for a in p.authors %}
+                        {% assign author = a | split: ", " %}
+                        {{ author[1] }} {{ author[0] }}{% if a != p.authors.last %},  {% endif %}
+                    {% endfor %}
+                    {% endcapture %}
+                    In: {{ cat.name | xml_escape }}&lt;br&gt;
+                    Authors: {{ authors | strip | xml_escape }}&lt;br&gt;
+                    {% if c.name == "Lectures" or c.name == "Workshops" %}
+                        Where: {{ p.publication }}, {{ p.location }}&lt;br&gt;
+                    {% elsif p.publication %}
+                        Publication: {{ p.publication }}
+                    {% endif %}
+                    </description>
+                <pubDate>{{ p.date | date_to_rfc822 }}</pubDate>
+                {% if p.url %}
+                    <link>{{ p.url }}</link>
+                {% else %}
+                    <link>{{ site.url }}</link>
+                {% endif %}
+                <guid isPermaLink="true">{{ p.url }}</guid>
+                <category>{{ cat.name | xml_escape }}</category>
+            </item>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+  </channel>
+</rss>
