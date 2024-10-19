@@ -11,7 +11,7 @@ David Březina is a typeface designer, writer, researcher, and managing director
 
 Email: <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#109;&#114;&#098;&#114;&#101;&#122;&#105;&#110;&#097;&#046;&#099;&#111;&#109;</a>  
 ORCID: [0009-0007-4410-0133](https://orcid.org/0009-0007-4410-0133)  
-RSS: <a href="{{ site.url }}/feed.xml">{{ site.url }}/feed.xml</a>
+RSS: <a href="{{ site.url }}/feed.xml">feed.xml</a>
 
 ## Main projects
 
