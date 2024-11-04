@@ -116,6 +116,10 @@
         {% if p.doi %}
           <a href="{{ p.doi}}">{{ p.doi}}</a>
         {% endif %}
+
+        {% if p.recording %}
+          (<a href="{{ p.recording}}">watch the recording</a>)
+        {% endif %}
       </li>
       {% endfor %}
     </ul>

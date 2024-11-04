@@ -28,7 +28,11 @@ layout: null
                     {% if c.name == "Lectures" or c.name == "Workshops" %}
                         Where: {{ p.publication }}, {{ p.location }}&lt;br&gt;
                     {% elsif p.publication %}
-                        Publication: {{ p.publication }}
+                        Publication: {{ p.publication }}&lt;br&gt;
+                    {% endif %}
+
+                    {% if p.recording %}
+                      Recording available: &lt;a href="{{ p.recording}}"&gt;{{ p.recording}}&lt;/a&gt;&lt;br&gt;
                     {% endif %}
                     </description>
                 <pubDate>{{ p.date | date_to_rfc822 }}</pubDate>
