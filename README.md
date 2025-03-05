@@ -21,6 +21,7 @@ RSS: <a href="{{ site.url }}/feed.xml">feed.xml</a>
 
 ## Typeface design (design)
 
+- *[Only Yours](https://rosettatype.com/OnlyYours)* (Latin, 2025). Design.
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
 - *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20). Design.
 - *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (Gujarati, Latin, 2016–2021). Art direction, design with Anna Giedryś.

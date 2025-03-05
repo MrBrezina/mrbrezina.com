@@ -229,6 +229,21 @@ categories:
 - name: Lectures
   items:
   - authors:
+    - Březina, David
+    title: Hyperglot – a toolkit for discovering language support in digital fonts [poster]
+    publisher: Language Technologies for All
+    date: 24. 2. 2025
+    location: Unesco, Paris, France
+    url: https://www.lt4all2025.eu
+  - authors:
+    - Březina, David
+    title: What is a universal script grammar [keynote]
+    publisher: Automatic Type Design 3
+    date: 20. 2. 2025
+    location: ANRT/ENSAD, Nancy, France
+    url: https://automatic-type-design.anrt-nancy.fr/colloques/automatic-type-design-3
+    recording: https://vimeo.com/1059696617
+  - authors:
     - Dyson, Mary C.
     - Březina, David
     title: "Do we process characters as shapes, nothing special?"
@@ -236,6 +251,7 @@ categories:
     date: 25. 10. 2024
     location: Venice, Italy
     url: https://grafematik2024.sciencesconf.org
+    recording: https://www.youtube.com/watch?v=8ESTPTyeG0E
   - authors:
     - Březina, David
     title: Structural analysis of the visual appearance of scripts
