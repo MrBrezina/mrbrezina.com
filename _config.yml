@@ -10,7 +10,7 @@ baseurl: ""
 author:
   name: David Březina
   url: https://mrbrezina.com
-  email: hellow@mrbrezina.com
+  email: hello@mrbrezina.com
 
 # Build settings
 markdown: kramdown
