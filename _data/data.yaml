@@ -230,6 +230,14 @@ categories:
   items:
   - authors:
     - Březina, David
+    - Štepanovská Anna
+    title: Useless Fonts
+    publisher: Brno Bold Typo 02
+    date: 15. 5. 2025
+    location: Brno, Czechia
+    url: https://www.brnobold.cz/udalosti/brno-typo-2
+  - authors:
+    - Březina, David
     title: Hyperglot – a toolkit for discovering language support in digital fonts [poster presentation]
     publisher: Language Technologies for All
     date: 24. 2. 2025
@@ -562,12 +570,36 @@ categories:
 - name: Interviews, profiles, and other appearances
   items:
   - authors:
+    - Tom May
+    title: "Only Yours: a bold new approach to typography based on unique variants"
+    publication: Creative Boom
+    date: 14. 5. 2025
+    url: https://www.creativeboom.com/resources/only-yours-a-bold-new-approach-to-typography-based-on-personalisation/
+  - authors:
+    - Unknown (Sponsored)
+    title: "Rosetta is a foundry that prioritises thorough research, design exploration and multilingual typefaces"
+    publication: It’s nice that
+    date: 14. 2. 2023
+    url: https://www.itsnicethat.com/articles/rosetta-graphic-design-sponsored-content-140223
+  - authors:
+    - Ayla Angelos
+    title: "Rosetta Type’s David Březina on his interchangeable and variable typeface Handjet"
+    publication: It’s nice that
+    date: 14. 6. 2021
+    url: https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621
+  - authors:
     - Mikulcová, Kateřina
     - Smělík, Petr
     title: "Identity: the story of Czech graphic design [film]"
     publisher: Mowshe
     date: 4. 10. 2024
     url: https://bohemianidentity.com
+  - authors:
+    - Poppy Thaxter
+    title: "From Expressive Experiments to Aesthetic Extremes, Rosetta Type’s Latest Releases From Signify an Exciting Shift in Pace"
+    publication: Type 01
+    date: 9. 4. 2024
+    url: https://type-01.com/from-expressive-experiments-to-aesthetic-extremes-rosetta-types-latest-releases-from-signify-an-exciting-shift-in-pace/
   - authors:
     - Serret, Gina
     title: Q&A David Březina
