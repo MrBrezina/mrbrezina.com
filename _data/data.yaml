@@ -3,6 +3,12 @@ categories:
   items:
   - authors:
     - Březina, David
+    title: "What is a (universal) script grammar?"
+    publication: Design Regression
+    date: 20. 6. 2025
+    url: https://designregression.com/essay/what-is-a-universal-script-grammar
+  - authors:
+    - Březina, David
     title: "Context-sensitive study of the visual similarity of characters in Cyrillic, Devanagari, and Latin scripts: effects of typeface design and expertise"
     date: 18. 10. 2024
     note: preprint
