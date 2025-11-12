@@ -1,5 +1,7 @@
 categories:
-- name: Academic articles
+- name:
+    en: Academic articles
+    cs: Akademické články
   items:
   - authors:
     - Březina, David
@@ -89,7 +91,9 @@ categories:
     date: 1. 1. 2007
     note: unpublished MA essay
 
-- name: Other articles
+- name:
+    en: Other articles
+    cs: Ostatní články
   items:
   - authors:
     - Březina, David
@@ -232,7 +236,9 @@ categories:
     date: 1. 1. 2007
     note: In Czech and English
       
-- name: Lectures
+- name:
+    en: Lectures
+    cs: Přednášky
   items:
 
   - title: About Rosetta type and research
@@ -496,7 +502,9 @@ categories:
     location: Cieszyn, Poland
     date: 1. 1. 2010
 
-- name: Workshops
+- name:
+    en: Workshops
+    cs: Workshopy
   items:
   - authors:
     - Březina, David
@@ -589,7 +597,9 @@ categories:
     location: Salfords, UK
     date: 1. 1. 2009
 
-- name: Interviews, profiles, and other appearances
+- name:
+    en: Interviews and other appearances in media
+    cs: Rozhovory a jiné zmínky v médiích
   items:
   - authors:
     - Kim Tidwell
@@ -708,7 +718,9 @@ categories:
     date: 1. 4. 2011
     url: https://www.em.muni.cz/absolventi/2145-brezina-vytvaret-pisma-je-jako-mluvit-ruznymi-hlasy
 
-- name: Design awards
+- name:
+    en: Awards
+    cs: Ocenění
   items:
   - authors:
     - Jevčinová, Sláva
@@ -744,7 +756,9 @@ categories:
     publisher: European Design Awards
     date: 1. 1. 2008
 
-- name: Exhibitions
+- name:
+    en: Exhibitions
+    cs: Výstavy
   items:
   - title: Granshan exhibition (ATypI Warszaw)
     date: 1. 1. 2016
