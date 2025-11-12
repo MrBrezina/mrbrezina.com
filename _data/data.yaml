@@ -234,6 +234,22 @@ categories:
       
 - name: Lectures
   items:
+
+  - title: About Rosetta type and research
+    authors:
+    - Březina, David
+    publisher: Identity project & Wyndham social
+    date: 8. 11. 2025
+    location: Virtual/Hong Kong
+    url: https://www.wyndhamsocial.com/social-happening-detail.php?id=100
+  - authors:
+    - Březina, David
+    - Štepanovská Anna
+    title: Useless Fonts
+    publisher: Typographics
+    date: 23. 6. 2025
+    location: Virtual/New York, USA
+    url: https://2025.typographics.com/workshops/#useless-fonts
   - authors:
     - Březina, David
     - Štepanovská Anna
@@ -575,6 +591,12 @@ categories:
 
 - name: Interviews, profiles, and other appearances
   items:
+  - authors:
+    - Kim Tidwell
+    title: Only Yours and Softly Yours are fonts as unique as your fingerprint (no, really)
+    publication: Print magazine
+    date: 4. 11. 2025
+    url: https://www.printmag.com/type-tuesday/the-yourses-typefaces-unique-as-your-fingerprint/
   - authors:
     - Tom May
     title: "Only Yours: a bold new approach to typography based on unique variants"

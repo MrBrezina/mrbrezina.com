@@ -4,8 +4,22 @@ permalink: /
 home: True
 ---
 
-David Březina is a typeface designer, writer, researcher, and managing director at [Rosetta Type](https://rosettatype.com). He has designed typefaces for a diverse palette of the world’s scripts, but focuses mostly on Gujarati and Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces for continuous reading in Latin, Cyrillic, and Devanagari scripts.
+David Březina is a typeface designer, writer, researcher, and managing director at Rosetta Type. While you may know him as the designer of the award-winning type family Skolar, he has also worked on custom typefaces for Adobe, Linotype (Monotype), Microsoft, Google, and others. So far, he has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces. He also co-founded Design Regression, a mini journal publishing texts that are about design for reading and reading-related research.
 {:.intro}
+
+David Březina navrhuje a odborně zkoumá typografické písmo. Zároveň je i vedoucím písmolijny Rosetta. Možná znáte jeho oceňované písmo Skolar nebo jeho práce or Adobe, Linotype (Monotype), Microsoft, Google a jiné. David navrhl písma pro celou řadu světových jazyků a skriptů, mj. cyrilici, řeckou alfabetu, gudžaratské písmo, dévanágarí a latinku. Po studiích aplikované informatiky na Masarykově univerzitě v Brně, získal magisterský titul v oboru navrhování písem a později i doktorát na University of Reading (Velká Británie). Ve své mezioborové doktorské práci se zabýval vizuální podobností a soudržností znaků v typografickém písmu. Je také spoluzakladatelem Design Regression, minižurnálu vydávajícího čitelné odborné texty o designu pro čtení a výzkumu souvisejícímu se čtením.
+{:.intro .hidden}
+
+[Czech ⇄ English bio](#){:#viewLink}
+
+<script>
+  document.getElementById('viewLink').addEventListener('click', function(event) {
+    event.preventDefault();
+    document.querySelectorAll('.intro').forEach(item => {
+      item.classList.toggle('hidden');
+    });
+  });
+</script>
 
 ## Contact
 

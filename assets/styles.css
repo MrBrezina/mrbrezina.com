@@ -22,7 +22,6 @@
 
 html {
   background: var(--background);
-  border: 2px solid var(--border);
 }
 
 body, li, p, h1, h2, h3, h4, h5 {
@@ -58,10 +57,14 @@ p {
 }
 
 p.intro {
-  font-size: 32px;
-  font-variation-settings: "ital" 1, "slnt" -10, "wght" 600;
+  font-size: 28px;
+  /* font-variation-settings: "ital" 1, "slnt" -10, "wght" 600; */
   font-feature-settings: "ss07" on;
-  line-height: 144%;
+  line-height: 150%;
+}
+
+.hidden {
+  display: none;
 }
 
 strong {
