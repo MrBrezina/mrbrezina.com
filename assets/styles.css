@@ -60,7 +60,7 @@ p.intro {
   font-size: 28px;
   /* font-variation-settings: "ital" 1, "slnt" -10, "wght" 600; */
   font-feature-settings: "ss07" on;
-  line-height: 150%;
+  line-height: 165%;
 }
 
 .hidden {
