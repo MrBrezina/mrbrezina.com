@@ -97,10 +97,28 @@ categories:
   items:
   - authors:
     - Březina, David
+    title: Co jsou Yourses?
+    publication: Font 204
+    date: 1. 11. 2025
+    url: https://rosettatype.com/articles/2026-01-20-co-jsou-yourses/
+  - authors:
+    - Březina, David
+    title: What are the Yourses?
+    publication: Rosetta Articles
+    date: 22. 5. 2025
+    url: https://rosettatype.com/articles/2025-05-22-what-are-the-yourses/
+  - authors:
+    - Březina, David
     title: Ten years of Rosetta
     publication: Rosetta Articles
     date: 11. 1. 2021
     url: https://rosettatype.com/articles/2021-01-11-ten-years-of-rosetta/
+  - authors:
+    - Březina, David
+    title: Písmový systém Adapter
+    publication: Font 171
+    date: 1. 5. 2020
+    url: https://rosettatype.com/articles/2020-05-01-pismovy-system-adapter/
   - authors:
     - Březina, David
     title: The making of Adapter
