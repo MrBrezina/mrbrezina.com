@@ -69,7 +69,7 @@
       <h2 id="#{{ cat.name.en | slugify: "latin" }}">{{ cat.name.en }}</h2>
     {% endif %}
     <ul>
-      {% for p in cat.items %}
+      {% for p in cat.items | sort: "date" | reverse %}
       <li>
         {% assign authors = "" %}
         {% for a in p.authors %}
