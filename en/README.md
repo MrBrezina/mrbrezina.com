@@ -5,10 +5,10 @@ home: True
 lang: en
 ---
 
+[Change language/změnit jazyk ⇄ čeština](/cs/)
+
 David Březina is a typeface designer, writer, researcher, and managing director at [Rosetta Type](https://rosettatype.com). While you may know him as the designer of the award-winning type family Skolar, he has also worked on custom typefaces for Adobe, Linotype (Monotype), Microsoft, Google, and others. So far, he has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces. He also co-founded [Design Regression](https://designregression.com), a mini journal publishing texts that are about design for reading and reading-related research.
 {:.intro}
-
-[Change language ⇄ čeština](/cs/)
 
 ## Contact
 

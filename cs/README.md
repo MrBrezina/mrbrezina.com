@@ -5,10 +5,10 @@ home: True
 lang: cs
 ---
 
+[Změnit jazyk/change language ⇄ English](/en/)
+
 David Březina navrhuje a odborně zkoumá typografické písmo. Zároveň je i vedoucím [písmolijny Rosetta](https://rosettatype.com). Možná znáte jeho oceňované písmo Skolar nebo jeho práce or Adobe, Linotype (Monotype), Microsoft, Google a jiné. David navrhl písma pro celou řadu světových jazyků a skriptů, mj. cyrilici, řeckou alfabetu, gudžaratské písmo, dévanágarí a latinku. Po studiích aplikované informatiky na Masarykově univerzitě v Brně, získal magisterský titul v oboru navrhování písem a později i doktorát na University of Reading (Velká Británie). Ve své mezioborové doktorské práci se zabýval vizuální podobností a soudržností znaků v typografickém písmu. Je také spoluzakladatelem [Design Regression](https://designregression.com), minižurnálu vydávajícího čitelné odborné texty o designu pro čtení a výzkumu souvisejícímu se čtením.
 {:.intro}
-
-[Změnit jazyk ⇄ English](/en/)
 
 ## Kontakt
 
