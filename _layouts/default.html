@@ -107,7 +107,7 @@
 
 
         {% if p.publication %}
-        {{ title }}. <em>{{p.publication}}</em>{% if p.volume %}, <em>{{p.volume}}</em>{% endif %}{% if p.issue %}({{p.issue}}){% endif %}.
+        {{ title }}. <em>{{p.publication}}</em>{% if p.volume %}, <em>{{p.volume}}</em>{% endif %}{% if p.issue %}({{p.issue}}){% endif %}{% if p.pages %}, {{p.pages}}{% endif %}.
         {% else %}
         <em>{{ title }}</em>.
         {% endif %}
