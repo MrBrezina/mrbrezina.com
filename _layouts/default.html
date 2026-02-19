@@ -107,16 +107,16 @@
 
 
         {% if p.publication %}
-        {{ title }}. <em>{{p.publication}}</em>{% if p.volume %}, <em>{{p.volume}}</em>{% endif %}{% if p.issue %}({{p.issue}}){% endif %}{% if p.pages %}, {{p.pages}}{% endif %}.
+        {{ title }}. <em>{{ p.publication }}</em>{% if p.volume %}, <em>{{ p.volume }}</em>{% endif %}{% if p.issue %}({{ p.issue }}){% endif %}{% if p.pages %}, {{p.pages}}{% endif %}.
         {% else %}
         <em>{{ title }}</em>.
         {% endif %}
         
         {% if p.publisher %}
-          {{ p.publisher}}{% if p.location %}, {{ p.location}}{% endif %}.
+          {{ p.publisher }}{% if p.location %}, {{ p.location }}{% endif %}.
         {% else %}
           {% if p.location %}
-            {{ p.location}}.
+            {{ p.location }}.
           {% endif %}
         {% endif %}
 
@@ -125,11 +125,15 @@
         {% endif %}
 
         {% if p.doi %}
-          <a href="{{ p.doi}}">{{ p.doi}}</a>
+          <a href="{{ p.doi }}">{{ p.doi}}</a>
         {% endif %}
 
         {% if p.recording %}
-          (<a href="{{ p.recording}}">watch the recording</a>)
+          (<a href="{{ p.recording }}">watch the recording</a>)
+        {% endif %}
+
+        {% if p.data %}
+          (<a href="{{ p.data }}">watch the data</a>)
         {% endif %}
       </li>
       {% endfor %}

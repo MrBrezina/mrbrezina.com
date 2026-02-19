@@ -12,6 +12,7 @@ categories:
     url: https://doi.org/10.1080/13506285.2026.2627306
     doi: https://doi.org/10.1080/13506285.2026.2627306
     note: open access
+    data: https://osf.io/de4n7/overview
   - authors:
     - Březina, David
     title: "What is a (universal) script grammar?"
@@ -25,6 +26,7 @@ categories:
     publication: Design Regression
     date: 17. 1. 2024
     url: https://designregression.com/article/can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves
+    data: https://github.com/MrBrezina/holistic-study
   - authors:
     - Dyson, Mary C.
     - Březina, David
@@ -32,6 +34,7 @@ categories:
     publication: Design Regression
     date: 26. 4. 2022
     url: https://designregression.com/research/the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words
+    data: https://github.com/MrBrezina/disfluency-study
   - authors:
     - Březina, David
     title: "Elements of multi-script typography: paragraphs and pixels"
@@ -57,6 +60,7 @@ categories:
     publication: Design Regression
     date: 18. 5. 2021
     url: https://designregression.com/research/exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces
+    data: https://github.com/MrBrezina/disfluency-study
   - authors:
     - Březina, David
     title: Character complexity and redundancy in writing systems over human history [review]
