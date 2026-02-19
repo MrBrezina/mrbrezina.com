@@ -23,9 +23,9 @@ layout: null
                         {{ author[1] }} {{ author[0] }}{% if a != p.authors.last %},  {% endif %}
                     {% endfor %}
                     {% endcapture %}
-                    In: {{ cat.name | xml_escape }}&lt;br&gt;
+                    In: {{ cat.name.en | xml_escape }}&lt;br&gt;
                     Authors: {{ authors | strip | xml_escape }}&lt;br&gt;
-                    {% if c.name == "Lectures" or c.name == "Workshops" %}
+                    {% if c.name.en == "Lectures" or c.name.en == "Workshops" %}
                         Where: {{ p.publication }}, {{ p.location }}&lt;br&gt;
                     {% elsif p.publication %}
                         Publication: {{ p.publication }}&lt;br&gt;
@@ -42,7 +42,7 @@ layout: null
                     <link>{{ site.url }}</link>
                 {% endif %}
                 <guid isPermaLink="true">{{ p.url }}</guid>
-                <category>{{ cat.name | xml_escape }}</category>
+                <category>{{ c.name.en | xml_escape }}</category>
             </item>
             {% endif %}
         {% endfor %}
