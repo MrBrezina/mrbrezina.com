@@ -7,7 +7,7 @@ lang: en
 
 [Change language/změnit jazyk ⇄ čeština](/cs/)
 
-David Březina* is a typeface designer, writer, researcher, and managing director at [Rosetta Type](https://rosettatype.com). While you may know him as the designer of the award-winning type family Skolar, he has also worked on custom typefaces for Adobe, Linotype (Monotype), Microsoft, Google, and others. So far, he has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces. He also co-founded [Design Regression](https://designregression.com), a mini journal publishing texts that are about design for reading and reading-related research.
+David Březina* is a typeface designer, writer, researcher, and managing director at [Rosetta Type/Research](https://rosettatype.com). Besides typefaces published with Rosetta, he has also worked on custom typefaces for Adobe, Linotype (Monotype), Microsoft, Google, and others. So far, he has designed typefaces for Cyrillic, Greek, Gujarati, Devanagari, and various extensions of Latin. David holds a Master’s degree in computer science from Masaryk University in Brno (Czechia) and an MA in Typeface Design and PhD from the University of Reading (UK). His cross-disciplinary PhD thesis studied visual similarity and coherence of characters in typefaces. He also co-founded [Design Regression](https://designregression.com), a mini journal publishing texts that are about design for reading and reading-related research.
 {:.intro}
 
 \* Please, feel free to spell as “Brezina” and pronouce as “brezi-nuh”.
@@ -27,7 +27,10 @@ RSS: <a href="{{ site.url }}/feed.xml">feed.xml</a>
 
 ## Typefaces (design)
 
+- *[Moderne Olive](https://rosettatype.com/ModerneOlive)* (Latin, 2026). Design.
+- *[Moderne Olive Rounded](https://rosettatype.com/ModerneOliveRounded)* (Latin, 2026). Design.
 - *[Only Yours](https://rosettatype.com/OnlyYours)* (Latin, 2025). Design.
+- *[Softly Yours](https://rosettatype.com/SoftlyYours)* (Latin, 2025). Design.
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (Cyrillic, Greek, Latin, 2020). Design.
 - *[Handjet](https://rosettatype.com/Handjet)* (Arabic, Armenian, Cyrillic, Greek, Hebrew, Latin, 2018–20). Design.
 - *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (Gujarati, Latin, 2016–2021). Art direction, design with Anna Giedryś.

@@ -7,7 +7,7 @@ lang: cs
 
 [Změnit jazyk/change language ⇄ English](/en/)
 
-David Březina navrhuje a odborně zkoumá typografické písmo. Zároveň je i vedoucím [písmolijny Rosetta](https://rosettatype.com). Možná znáte jeho oceňované písmo Skolar nebo jeho práce or Adobe, Linotype (Monotype), Microsoft, Google a jiné. David navrhl písma pro celou řadu světových jazyků a skriptů, mj. cyrilici, řeckou alfabetu, gudžaratské písmo, dévanágarí a latinku. Po studiích aplikované informatiky na Masarykově univerzitě v Brně, získal magisterský titul v oboru navrhování písem a později i doktorát na University of Reading (Velká Británie). Ve své mezioborové doktorské práci se zabýval vizuální podobností a soudržností znaků v typografickém písmu. Je také spoluzakladatelem [Design Regression](https://designregression.com), minižurnálu vydávajícího čitelné odborné texty o designu pro čtení a výzkumu souvisejícímu se čtením.
+David Březina navrhuje a odborně zkoumá typografické písmo. Zároveň je i vedoucím [písmolijny Rosetta](https://rosettatype.com). Kromě písem vydaných s Rosettou, pracoval i s Adobe, Linotype (Monotype), Microsoft, Google a dalšími. David navrhl písma pro celou řadu světových jazyků a skriptů, mj. cyrilici, řeckou alfabetu, gudžaratské písmo, dévanágarí a latinku. Po studiích aplikované informatiky na Masarykově univerzitě v Brně, získal magisterský titul v oboru navrhování písem a později i doktorát na University of Reading (Velká Británie). Ve své mezioborové doktorské práci se zabýval vizuální podobností a soudržností znaků v typografickém písmu. Je také spoluzakladatelem [Design Regression](https://designregression.com), minižurnálu vydávajícího čitelné odborné texty o designu pro čtení a výzkumu souvisejícímu se čtením.
 {:.intro}
 
 ## Kontakt
@@ -25,7 +25,10 @@ RSS: <a href="{{ site.url }}/feed.xml">feed.xml</a>
 
 ## Typografická písma (autorská)
 
+- *[Moderne Olive](https://rosettatype.com/ModerneOlive)* (latinka, 2026). Design.
+- *[Moderne Olive Rounded](https://rosettatype.com/ModerneOliveRounded)* (latinka, 2026). Design.
 - *[Only Yours](https://rosettatype.com/OnlyYours)* (latinka, 2025). Design.
+- *[Softly Yours](https://rosettatype.com/SoftlyYours)* (latinka, 2025). Design.
 - *[Gridlite PE](https://rosettatype.com/GridlitePE)* (cyrilice, alfabeta, latinka, 2020). Design.
 - *[Handjet](https://rosettatype.com/Handjet)* (arabské písmo, arménské písmo, cyrilice, alfabeta, hebrejské písmo, latinka, 2018–20). Design.
 - *[Yrsa & Rasa](https://github.rosettatype.com/yrsa-rasa/)* (gudžarátské písmo, latinka, 2016–2021). Vedení projektu, design společně s Annou Štepanovskou (roz. Giedryś).
