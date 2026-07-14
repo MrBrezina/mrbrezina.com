@@ -14,7 +14,7 @@ categories:
     url: https://doi.org/10.1080/13506285.2026.2627306
     doi: https://doi.org/10.1080/13506285.2026.2627306
     note: open access
-    data: https://osf.io/de4n7/overview
+    data: https://github.com/MrBrezina/contextual-similarity-of-characters
   - authors:
     - Březina, David
     title: "What is a (universal) script grammar?"
@@ -266,7 +266,6 @@ categories:
     en: Lectures
     cs: Přednášky
   items:
-
   - title: Searching for universal principles in world scripts, now with Fourier transform
     authors:
     - Březina, David
@@ -274,6 +273,7 @@ categories:
     date: 25. 6. 2026
     location: Reading, UK
     url: https://grafematik2026.sciencesconf.org
+    recording: https://www.youtube.com/watch?v=lHrvtFbZwJs
   - title: Searching for universal principles in world scripts, now with Fourier transform
     authors:
     - Březina, David
@@ -281,6 +281,7 @@ categories:
     date: 28. 5. 2026
     location: Virtual/Stanford, USA
     url: https://atypi.org/presentation/searching-for-universal-principles-in-world-scripts-now-with-fourier-transform/
+    recording: https://www.loom.com/share/59406cc6d0c84b8da783eb3ab0b69736
   - title: About Rosetta type and research
     authors:
     - Březina, David
