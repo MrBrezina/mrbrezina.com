@@ -166,6 +166,17 @@ categories:
   - authors:
     - Březina, David
     title: A critical approach to typefaces
+    editors:
+    - Friedman, Vitaly
+    publication: "Typography: Practical Considerations And Design Patterns"
+    publisher: Smashing Magazine GmbH
+    isbn: 978-3-94454076-4
+    location: Freiburg, Germany
+    date: 1. 1. 2014
+    url: http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/
+  - authors:
+    - Březina, David
+    title: A critical approach to typefaces
     publication: Smashing Magazine
     date: 12. 2. 2013
     url: http://www.smashingmagazine.com/2013/02/12/a-critical-approach-to-typefaces/
@@ -291,7 +302,7 @@ categories:
     url: https://www.wyndhamsocial.com/social-happening-detail.php?id=100
   - authors:
     - Březina, David
-    - Štepanovská Anna
+    - Štepanovská, Anna
     title: Useless Fonts
     publisher: Typographics
     date: 23. 6. 2025
@@ -299,7 +310,7 @@ categories:
     url: https://2025.typographics.com/workshops/#useless-fonts
   - authors:
     - Březina, David
-    - Štepanovská Anna
+    - Štepanovská, Anna
     title: Useless Fonts
     publisher: Brno Bold Typo 02
     date: 15. 5. 2025
