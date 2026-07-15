@@ -71,6 +71,7 @@
     <ul>
       {% for p in cat.items %}
       <li>
+        <!-- format authors -->
         {% assign authors = "" %}
         {% for a in p.authors %}
           {% assign names = a | split: ", " %}
@@ -85,15 +86,48 @@
           {% endif %}
           {% if a == p.authors.first and a == p.authors.last %}
             {% assign authors = name | strip %}
+          {% elsif a == p.authors[-2] %}
+            {% assign authors = name | strip | prepend: authors | append: " & " %}
           {% elsif a != p.authors.last %}
             {% assign authors = name | strip | prepend: authors | append: ", " %}
           {% else %}
-            {% assign authors = name | strip | prepend: "& " | prepend: authors %}
+            {% assign authors = name | strip | prepend: authors %}
           {% endif %}
         {% endfor %}
 
-        {{ authors }}
+        <!-- format editors -->
+        {% assign editors = "" %}
+        {% for a in p.editors %}
+          {% assign names = a | split: ", " %}
+          {% assign first_names = names[1] | split: " " %}
+          {% if first_names.size > 0 %}
+            {% assign name = "" %}
+            {% for fn in first_names %}
+              {% assign name = fn | slice: 0 | prepend: name | append: ". "%}
+            {% endfor %}
+            {% assign name = names[0] | prepend: name %}
+          {% else %}
+            {% assign name = names[0] %}
+          {% endif %}
+          {% if a == p.editors.first and a == p.editors.last %}
+            {% assign editors = name | strip %}
+          {% elsif a == p.authors[-2] %}
+            {% assign editors = name | strip | prepend: editors | append: " & " %}
+          {% elsif a != p.editors.last %}
+            {% assign editors = name | strip | prepend: editors | append: ", " %}
+          {% else %}
+            {% assign editors = name | strip | prepend: editors %}
+          {% endif %}
+        {% endfor %}
+        {% if p.editors.size == 1 %}
+          {% assign editors = editors | append: " (Ed.)" %}
+        {% else %}
+          {% assign editors = editors | append: " (Eds.)" %}
+        {% endif %}
 
+        <!-- compile the reference-->
+
+        {{ authors }}
 
         {% if p.date %}
         ({{ p.date | date: "%Y"}}).
@@ -107,9 +141,15 @@
 
 
         {% if p.publication %}
-        {{ title }}. <em>{{ p.publication }}</em>{% if p.volume %}, <em>{{ p.volume }}</em>{% endif %}{% if p.issue %}({{ p.issue }}){% endif %}{% if p.pages %}, {{p.pages}}{% endif %}.
-        {% else %}
-        <em>{{ title }}</em>.
+          {{ title }}.
+
+          {% if p.editors %}
+          In {{ editors }},
+          {% endif %}
+
+          <em>{{ p.publication }}</em>{% if p.volume %}, <em>{{ p.volume }}</em>{% endif %}{% if p.issue %}({{ p.issue }}){% endif %}{% if p.pages %}, {{p.pages}}{% endif %}.
+          {% else %}
+          <em>{{ title }}</em>.
         {% endif %}
         
         {% if p.publisher %}
