@@ -64,10 +64,15 @@
     <!-- Bibliography (APA style) -->
     {% for cat in site.data.data.categories %}
     {% if page.lang == "cs" %}
-      <h2 id="#{{ cat.name.cs | slugify: "latin" }}">{{ cat.name.cs }}</h2>
-    {% else %}
-      <h2 id="#{{ cat.name.en | slugify: "latin" }}">{{ cat.name.en }}</h2>
+      {% assign _cat = cat.name.cs %}
+      {% assign _watch = "podívat se na záznam" %}
+      {% assign _repository = "datové úložiště" %}
+      {% else %}
+      {% assign _cat = cat.name.en %}
+      {% assign _watch = "watch the recording" %}
+      {% assign _repository = "data repository" %}
     {% endif %}
+    <h2 id="#{{ _cat | slugify: "latin" }}">{{ _cat }}</h2>
     <ul>
       {% for p in cat.items %}
       <li>
@@ -169,11 +174,11 @@
         {% endif %}
 
         {% if p.recording %}
-          (<a href="{{ p.recording }}">watch the recording</a>)
+          (<a href="{{ p.recording }}">{{ _watch }}</a>)
         {% endif %}
 
         {% if p.data %}
-          (<a href="{{ p.data }}">data repository</a>)
+          (<a href="{{ p.data }}">{{ _repository }}</a>)
         {% endif %}
       </li>
       {% endfor %}
